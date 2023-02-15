@@ -46,97 +46,30 @@ To start customizing the theme, login to your admin panel, go to **Storefront** 
 ![Header](img/header.jpg)
 
 
-To configure the header, click on **Theme Styles** > **Header** section, here you can config the header colors, store logo position and size.
+To configure the header, click on **Theme Styles** > **Header** section, here you can configure the header colors, store logo position and size.
 
 **User Navigation** allows to change colors of the icon phone, cart.
 
 **Top Bar** section allows to change color of this top bar.
 
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796872043?h=5d2873e4a6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-header"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-#### Quick search
-
-**Quick Search** allows user to change the colors of the search form.
-
-To configure the **Quick Search**, click on **Theme Styles** > **Header**. In **Quick Search** section you can change text colors, hover, border, and background of the search field.
-
-To change popular search keywords, type your text in **popular search keywords** field as picture below.
-
-![header-quick-search](img/quick-search.jpg)
-#### Main Navigation
-
 **Main Navigation** allows to customize this navigation bar like changing the menu type to column, dropdown menu or mega menu; changing colors of the top menu as well as the sub-menus. There is an option "**Hide webpage links**" that allows to hide the static web page links on the main navigation.
 
-To configure the Main navigation, click on **Theme Styles** > **Header**. In **Main navigation** section you can change:
-
-- **Root menu item color**: text color of root menu item.
-
-- **+ Hover**: text color on hover on the root menu item.
-
-- **+ Background**: background color of sub menu block.
-
-- **+ Background (Mobile)**: background color of menu on mobile device.
-
-- **Sub menu item color**: text color of the submenu item.
-
-- **+ Hover**: text color on hover on the submenu item.
-
-- **+ Background**: background color of the submenu item.
-
-- **+ Background hover**: background color on hover on the submenu item.
-
-- **+ Border**: border-color of mega menu popup.
-
-![main-navigation](img/main-navigation.jpg)
-
-To config style of main navigation, click on **Theme Styles** > **Header**. In **Main navigation** select **Menu style**. The theme offer 3 option as below:
-
-- `Mega menu`: show submenu under Mega menu style. **Mega menu** allow user insert banner and product into it
-
-![mega-menu](img/mega-menu.jpg)
-
-- `Dropdown`: show sub-menu item as dropdown style.
-
-![dropdown-menu](img/dropdown-menu.jpg)
-
-- `Column`: show sub-menu item as column style.
-
-![column-menu](img/column-menu.jpg)
-
-You can also hide or **Show web page links** and **Show widgets in the mega menu**.
+**Quick Search** allows to change the colors of the search form.
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796851987?h=a75fba7b62&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-main navigation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-c-oUQycgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Products by category in mega menu
-
-![products-by-category-mega-menu](img/products-by-category-in-mega-menu.png)
-
-To create **Products by category in mega menu**:
-
-Drag and drop **Layout** widget to the corresponding position, change **Column** = `1`. Select **Column 1**, set **Padding** = `0 0 0 0`.
-
-Drag and drop **Section Heading | PapaThemes Beautify** widget into **Column 1**. Typing your text (example "Feature Box Items"), set **Padding** = `10 0 10 0`, **Padding (Mobile)** = `10 0 10 0`.
-
-Drag and drop **Products Feed | PapaThemes Beautify** widget into **Column 1** below **Section Heading** widget. In **Products** enter URL of the category to fetch products (example `/bird/`). Checked **Render with template** and enter your template file: `beautify/products-feed/list`.
-
-Change **Limit** = `3`.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796864334?h=12fed2f800&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="products-feed-guide-full"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### Top Banner
 
+The top banner can be created in **Marketing** > **Banners**, click **Create a Banner** button, enter Banner Name, Banner Content, select Show on Page = Home Page, select Location = Top of Page.
 
 Go back to **Storefront** > **My Themes** > click **Customize** button beside the theme thumbnail. You can see the top banner appears above the header. To change the colors of the top banner, go to **Theme Styles** > **General** > **Top banners** section. Here you can change the text color and the background color.
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795121977?h=6bd7a34407&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-top banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AWPZNKszf6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Ad Banner displays on all pages
 
@@ -144,11 +77,7 @@ To display the ad banner appearing on all pages on the header, drag and drop the
 
 ```html
 <p data-marquee>
-  <span class="button button--primary button--small">10% Off</span>
-  <span>&nbsp;&nbsp;&nbsp;$50+ WHEN YOU BUY ONLINE & PICK UP IN - STORE&nbsp;&nbsp;&nbsp;</span>
-  <span style="color: rgba(255,255,255,0.3)">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
-  <span>SAVE 35% ON YOUR FIRST&nbsp;&nbsp;&nbsp;</span>
-  <a href="/store">LEARN MORE</a>
+  15% OFF WITH CODE CBD15 + FREE SHIPPING > $99. USE IT NOW.
 </p>
 ```
 
@@ -156,7 +85,60 @@ The code allows to animate the text sliding from left to right on smaller screen
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796851998?h=9896b97f44&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Instr-header banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gG1WesJPkkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Trustpilot rating image
+
+To create TrustPilot rating image, in Page Builder, drag and drop the **Callout icons widget** to the corresponding position. Select **Icon** = `Choose image`, then upload your image here. Enter icon size accordingly, for example 217 x 24. Unselect **Display icons in container div**, Hide **Show text**. In **Padding** panel, enter 0 for all.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ex3Ub0tC04U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Shop Sale button
+
+To create the Shop Sale button, in Page Builder, drag and drop the **Callout icons widget** to the corresponding position. Delete all other items except the first one. Choose a certain icon, enter the text Shop Sale. Choose **Style** = `Left`, **Theme Style** = `custom`. Enter **font size** = 14px. Enter **icon size** 24 x 24 px.
+
+Edit the layout column, change the **padding** to 0 and **margin left** = `30`. Then change the column background color to any color you want.
+
+Click the Shop Sale widget again. Change the **padding** to 0 and to change the **icon color** and the **text color** to white.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_cYlNVVxjoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### 4 Callout icons
+
+![4 Callout icons](img/4-callout-icons.jpg)
+
+To create 4 callout icons, in Page Builder drag and drop the **Callout icons widget** to the position below the header. Delete all other items except the first one.
+
+Choose the icon you like in **Icon**. Enter **icon size** 24 x 24px. Choose **Text style** = `Custom` and **font size** = `14px`, **text color** = `#262626`, **text color hover** = `#3162df`. Select **Show second text**, select **Hide on mobile** to hide the second text on mobile. Choose **font size** = `14px`. Colors are the same the first text line.
+
+Change **Style** = `Left`, then edit the text directly in page builder. Change **padding** to `15 5 15 5` for desktop and tablet, `10 5 10 5` for mobile. Then duplicate to 4 items and choose different icons for the other items.
+
+To change the background color, edit the layout, set Layout Background to a certain color that you want.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h4zW6W1KvNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Ad Banner below the header displays on all pages
+
+![ad-banner-below-header](img/ad-banner-below-header.jpg)
+
+To create ad banner below the header appearing on all pages, drag & drop to **Text** widget to the corresponding position. Edit the text as you want. Choose **font size** = `14px`, **color** = `#ffffff`, **align** = `center`, **padding** = `8 0 8 0`.
+
+Change the **layout background color** = `#3162df` or any color you want.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T8nu-5BPcYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Main carousel
 
@@ -168,319 +150,138 @@ Go back to **Page Builder**, in **Theme Styles** > **Home Page**, make sure **Ca
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796542010?h=3030ce28cf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-home carousel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-#### Popular Brand logos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HT44vYYQbnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-![Top-column-carousel](img/brands-top-carousel.jpg)
+### Brand logos 
 
-To create popular brands in home page carousel:
+![brand-logos-on-homepage](img/brand-logos-on-homepage.jpg)
 
-click on **Theme Styles** > **Home Page** > **Carousel** find **show top column** and enable it to open widget region.
+To display the brand images on the home page, in Page Builder, drag & drop the **Flex Banners | PapaThemes Beautify** to the corresponding position, delete all other banner items except the first item.
 
-Drag and drop **layout widget** from page builder to corresponding position in **top column**. Change **column** to 1. Set **margin left and right** = `0`. Select column 1 and change **padding left, right** = `0`
+Upload the image in **Image** field, and enter the **image width** & **height** accordingly (for example 150 x 80 px). Change **Border radius** = `0`. In **Content** group, Hide **Heading text**.
 
-drag & drop **Flex Banners | PapaThemes Beautify** widget to layout. Delete all banner **except banner 1**. In Banner click on **Image** and upload your image. Change image **width** = `210px` and **height** = `140px` (recommend). Change **border radius** to `20px`. In General section, click on padding change left, right value to `12` for desktop and table and `5` for mobile device.
+In **General** group, choose **Width** = `%` and set **Value (Desktop)** = `8.33%`, **Value (Tablet)** = `16.66%`, **Value (Mobile)** = `33.33%` to display 12 images per row on desktop, 6 images per row on tablet and 3 banners per row on mobile. In **Padding** panel, set `5` for all values. Unselect **Display banners in container div** to display full width.
 
-Duplicate banner 1 to quantity that you want and update your image for each banner.
+Duplicate to 12 banners and upload images accordingly for each banner.
 
-Click on `...` at the right of widget name and select **Setting** > **Carousel** > **Enable carousel**. click on pen icons to open carousel setting change items per slide for **desktop** = `8`, tablet = `4` and mobile = `2`.
+To display the title, using drag & drop the **Section Heading | PapaThemes Beautify** widget to the corresponding position above the brand widget. Set **Padding** = `60 0 40 0`, and **Padding (Mobile)** = `40 0 20 0` as suggested.
 
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796842307?h=85ac457107&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-Popular brand in home carousel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-#### Right banner in homepage carousel
-![Main-carousel-right-banner](img/right-banner-main-carousel.jpg)
-
-To display right banner in Main carousel.
-
-click on Theme Styles > Home Page > Carousel find show **right column** and enable it to open widget region.
-
-Drag and drop layout widget from page builder to corresponding position in **right column**. Change column to 1. Set margin left and right = 0. Select column 1 and change padding left, right = 0.
-
-drag & drop **Flex Banners | PapaThemes Chiara** widget to layout. Delete all banner **except banner 1**. In Banner click on **Image** and upload your image. Change image **width** = `415px` and **height** = `357px`. Change **border radius** to `30px`. In General section, set all padding value t `0` for all device.
-
-Duplicate **Flex Banners | PapaThemes Chiara** widget. Select second banner change your **image** and **overlay image**.
-
-Noted: Total the height of two banner minus `24px` should equal height of main carousel banner.
+Optionally adding a extra spacing below the brand images using **Spacer | PapaThemes Beautify** widget, set **Desktop** = `50px`, **Tablet** = `30px` and **Mobile** = `30px`.
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796915564?h=fc5cc022ba&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Instr-right banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/StgI5Ns3rWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Top categories
 
-Desktop
-![Top categories](img/top-categories.jpg)
+### Service icons
 
-Mobile
+![service-icons-on-homepage](img/service-icons-on-homepage.jpg)
 
-![Top categories](img/top-categories-mobile.jpg)
+Drag & drop the **Layout** to the corresponding position, change **Padding** = `30 10.5 40 10.5`. Change the **Layout background color** to `#EFF5FA`.
 
-To create Top categories, in Page Builder drag and drop the **Layout widget** to the position **home below carousel**. Select the layout change column to 1 and change **layout name** = `TOP CATEGORIES`.
+Drag & drop the **Callout Icons** widget to the layout. Delete all other items except the first one.
 
-Drag and drop **Flex Banners | PapaThemes Beautify** to the layout delete all the items except the first one then change to your image change **width** = `237` and **height** = `100`. If you want to show different image on mobile please enable **show different image on mobile** change to your image on mobile and set **width** = `82`, **height** = `120`. Open content tab disable heading and enable description change **content align** = `center`, Content padding **Top** = `12px` **Left** = `60px`. In general tab change padding **Top, right, bottom, left** = `8px`. 
+Select **Icon** = `Choose Image`, then upload your icon image. Set Icon width & height accordingly (example 100 x 100 px).
 
-On **Flex Banners | PapaThemes Beautify** choose setting. In general tab enable **display content overlaying banner on mobile**. In carousel tab, enable carousel and click on **setting**. In carousel setting , setup following **Items per slide** = `6`, table and mobile = `4`. Enable `show dot`.
+Set **Width** = `20%` for desktop, `20%` for tablet and `33.33%` for mobile to display 5 icons on desktop and tablet and 3 icons per row on mobile.
 
-At **Description text** > **setting** change **Description style** = `Custom` set **Font size** = `18px`, **Font site (Mobile)** = `14px` and **Text color** = `#0F0F2D`.
+Set **Padding**, **Desktop** = `10 5 30 5`, **Tablet** = `10 5 30 5`, **Mobile** = `10 5 15 5`.
 
-To change the background color, edit the layout, set Layout Background to a certain color that you want.
+Set Text **font size** = `18px`, **font size (mobile)** = `16px`. **Text color** = `#262626`.
 
-To setup heading, drag and drop **section heading | PapaThemes Beautify** and type your heading. Change padding **bottom** = `20px`, **alignment** = `center`
+Duplicate the icons to 5 icons and choose different image for each icon.
+
+To add the title, drag & drop the **Section Heading | PapaThemes Beautify** widget to above the icons. Set **Padding** = `40 0 0 0` and **Padding (Mobile)** = `20 0 10 0`.
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796510179?h=f3fd45871a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-top category"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DItG-eoAnew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Product by category
+### Category banners
 
-Desktop
-
-With **Left banner**:
-
-![Product by category](img/product-by-category.png)
-
-With out **Left banner**:
-
-![Product by category](img/product-by-category-2.png)
-
-Go to **Theme Styles** > **Home Page**, in the **Sections** field select **Product by category**.
-
-To create **Left banner**:
+![edit-category-banners](img/edit-category-banners.jpg)
 
 Drag & drop the **Flex Banners | PapaThemes Beautify** widget to the corresponding position. Delete all other banners except the first one.
 
-Upload your image in **Image** field. Set **Image Width** = `304px` and **Image Height** `466px`. You can change **Border radius** = `30px`.
+Upload your image in **Image** field. Set **Image Width** and **height** accordingly (our suggested size: 400x450px). Change **Border radius** = `0`.
 
-If you want to show different image on mobile please enable **show different image on mobile** upload your image in **Image (Mobile)** field. Set **Image Width (Mobile)** = `388px` and **Image Height (Mobile)** = `295px`.
+In **Content** group, change **content align** to `center` & `top`. **Content pading** = `30 30 30 30`.
 
-In **Content**, hide **Heading text** if your banner already has text.
+In **Heading text** panel, Choose **Text style** = `custom`, set **Font weight** = `Semi Bold`, **Font size** = `36px`, **Font size (mobile)** = `16px`, **Text color** = **Text color hover** = `#ffffff`, **Text color (mobile)** = **Text color hover (mobile)** = `#262626`.
 
-In **General** > **Padding** panel, set `0` for all values and `18` for **bottom (Mobile)**.
+In **General** group:
 
-Select the **Column 1** set padding = `0 0 0 0`.
+- In **Width** panel, set **Width** = `%` and **Value (Desktop)** = **Value (Tablet)** = `33.33%`, **Value (Mobile)** = `50%` to display 3 banners per row on desktop & tablet and 2 banners per row on mobile. 
+- In **Padding** panel, set **Desktop** = **Tablet** = `10 10 10 10`, **Mobile** = `5 5 5 5`.
 
-To change **Border color of the title**:
-
-In **Theme Styles** > **General** > **Link Colors** change color you want.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796201915?h=ae876c0213&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-Product category banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-### Kitten and Puppy
-
-Desktop
-
-![Kitten puppy](img/kitten-puppy.png)
-
-Mobile
-
-![Kitten puppy](img/kittten-puppy-mb.png)
-
-To create banner **kitten puppy**: 
-
-In **Page Builder** drag & drop **Layout** to the corresponding position and change **Columns** = `1`, **Layout** name = `KITTEN PUPPY`.
-
-Select the **Column 1**, in **COLUMN BACKGROUND** choose **Background** = `Image` and upload image background, that you want.
-
-To create title:
-
-Drag & drop the **Text** widget into **Column 1**. Typing your text (example "KITTEN & PUPPY"). Choose **Font weight** = `Semi Bold`, **Font size** = `32px`, **Text color** = `#FFFFFF`.
-
-Drag & drop the second **Text** widget into **Column 1** below **Text** (KITTEN & PUPPY). Typing your text (example "FEEDING INSTRUCTIONS"). Choose **Font size** = `18px`, **Text color** = `#FFFFFF`.
-
-Drag & drop the **Spacer | PapaThemes Beautify** into **Column 1** about at the top and below **Text** (FEEDING INSTRUCTIONS). Set value **Desktop** = `50px`, **Tablet** = `40px`, **Mobile** = `20px`.
-
-To create content:
-
-Drag & drop the **Flex Banners | PapaThemes Beautify** widget into **Column 1** at the bottom. Delete all other banners except the first one.
-
-Upload your image, set **Image Width** = `345px`, **Image Height** `262px`, **Border radius** = `30px`. If you want to show different image on mobile please enable **show different image on mobile** upload your image in **Image (Mobile)** field.
-
-In **Content**, hide **Heading text** if your image already has text.
-
-In **General** > **Width** panel choose **Width** = `%` and set **Value (Desktop)** = `25%`, **Value (Tablet)** = `50%`,  **Value (Mobile)** = `50%`. In **Padding** panel set value **Desktop** = `0 14 0 14`, **Tablet** = `0 9 9 0`, **Mobile** = `0 2,5 2,5 0`.
-
-Duplicate to 4 banners and upload images according to each banner.
-
-On **Flex Banners | PapaThemes Beautify** choose **Settings**. In **General** disable **Display banners in container div**, change **Your theme name** = `mooncat`, in **Padding** panel set value **Desktop** = `0 15 0 15`, **Tablet** = `0 18 0 18`, **Mobile** = `0 10 0 10`.
-
-Drag & drop the **Spacer | PapaThemes Beautify** widget into **Column 1** below **Flex Banners | PapaThemes Beautify**. Set value **Desktop** = `172px`, **Tablet** = `155px`, **Mobile** = `115px`.
-
-To create below banner:
-
-Drag & drop the second **Layout** below **Layout (KITTEN PUPPY)** and change **Columns** = `1`, select the **Column 1** set **Padding** = `0 0 0 0`.
-
-Drag & drop **Flex Banners | PapaThemes Beautify** widget into the second **Layout**. Delete all other banners except the first one.
-
-Upload your image, set **Image Width** = `639px`, **Image Height** `373px`, **Border radius** = `30px`. If you want to show different image on mobile please enable **show different image on mobile** upload your image in **Image (Mobile)** field.
-
-In **Content**, hide **Heading text** if your image already has text.
-
-In **General** > **Padding** panel set value **Desktop** = `20 0 50 0`, **Tablet** = `20 0 40 0`, **Mobile** = `20 0 20 0`.
-
-On **Flex Banners | PapaThemes Beautify** choose **Settings**. In **Padding** panel set `0` for all values and `50` for **top (Mobile)**
-
-Select the **Column 1** inside the **Layout (KITTEN PUPPY)** set **Margin** = `0 0 -172 0`, **Padding** = `0 0 0 0`.
+Duplicate to 6 banners and upload different image for each banner.
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796178146?h=8605ce1a91&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-Puppy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DKxxYwLdREU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Top Brand
 
-![top-brand](img/top-brand.png)
+### FAQs content section
 
-To create **Top brand**:
+![edit-faqs-section](img/edit-faqs-section.jpg)
 
-Drag & drop **Layout** widget to the corresponding position, change **Columns** = `1`, **Name** = `ROUNDED`, select the **Column 1** set **Padding** = `0 0 0 0`. In **COLUMN BACKGROUND** choose **Background** = `Image` and upload your.
+Drag & drop **Leaderboard Banner | PapaThemes Beautify** widget to the corresponding position. 
 
-Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "TOP BRAND"), select custom in **Text style** field, set **Font size** = `30px`, **Text color** = `#FFFFFF`, **Padding** = `30 0 20 0`, **Padding (Mobile)** = `20 0 10 0`.
+Upload image in **Image** field and enter **Banner height** accordingly (we suggest 520px for desktop and 600px for mobile).
 
-Drag & drop **Flex Banners | PapaThemes Beautify** widget below **Section Heading | PapaThemes Beautify** widget. Delete all other banners except the first one.
+Enter **banner link**, for example `/faq/`. Set **Content align** = `center` & `middle`.
 
-Upload your image, set **Image width** = `266px`, **Image height** = `266px`, **Border radius** = `266px`. If you want to show different image on mobile please enable **Show different image on mobile** upload your image in **Image (Mobile)** field.
+In **Heading** group, Set **font size** = `40px`, **Heading color** = **Heading color (mobile)** = `#ffffff`.
 
-In **Content**, hide **Heading text** if your image has text.
+In **Text** group, Set **Font size** = `16px`, **Text color** = **Text color (mobile)** = `#ffffff`.
 
-In **General** > **Padding** panel set value **Desktop** = `0 13 30 13`, **Tablet** = `0 8 12 8`, **Mobile** = `0 4 10 4`.
+In **Button** group, Set **Button style** = `Custom`, **Button radius** = `0`, **Button color** = `#ffffff`, **Button color hover** = `#111111`, **Button text color** = `#111111`, **Button text color hover** = `#ffffff`.
 
-Duplicate to 10 banners and upload images according to each banner.
-
-In **Settings** of **Flex Banners | PapaThemes Beautify**:
-
-In **General** > **Padding** panel set value **Desktop** = `0 0 30 0`, **Tablet** = `0 0 12 0`, **Mobile** = `0 0 10 0`.
-
-In **Carousel**, show **Enable carousel**, in **Carousel settings** panel set value **Items per slide** = `5`, **Items per slide (Tablet)** = `4`, **Items per slide (Mobile)** = `3`, unchecked **Show arrows**.
+Edit content directly in Page Builder.
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796197736?h=6915ba753b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-Top Brand"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jWhrCYXi5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Double banner
-
-Desktop
-
-![Double banner](img/banners.png)
-
-Mobile
-
-![Double banner](img/banners-mb.png)
-
-To create **Double banner**:
-
-Drag & drop **Layout** widget to the corresponding position, change **Column** = `1`, **Name** = `BOXED`.
-
-Select the **Column 1** set **Padding** = `0 0 0 0`.
-
-Drag & drop **Flex Banners | PapaThemes Beautify** widget into **Column 1**.
-
-Select **Banner 1**, upload your image, set **Image width** = `1055px`, **Image height** = `436px`, enable **Show different image on mobile** and upload your image in **Image (Mobile)**, set **Image width (Mobile)** = `388px`, **Image height (Mobile)** = `961px`, **Border radius** = `30px`.
-
-In **Content**, hide **Heading text** if your image has text.
-
-In **General** > **Width** panel choose **Width** = `%`, set **Value (Desktop)** = `70%`, **Value (Tablet)** = `70%`, **Value (Mobile)** = `100%`.
-
-In **General** > **Padding** panel set value **Desktop** = `0 10 0 0`, **Tablet** = `0 5 0 0`, **Mobile** = `0 0 0 0`.
-
-Select **Banner 2** and upload image corresponding, set **Image width** = `435px`, **Image height** = `435px`, **Border radius** = `30px`. If you want to show different image on mobile please enable **Show different image on mobile**.
-
-In **Content**, hide **Heading text** if your image has text.
-
-In **General** > **Width** panel choose **Width** = `%`, set **Value (Desktop)** = `30%`, **Value (Tablet)** = `30%`, **Value (Mobile)** = `100%`.
-
-In **General** > **Padding** panel set value **Desktop** = `0 0 0 20`, **Tablet** = `0 0 0 10`, **Mobile** = `25 0 0 0`.
-
-In **Settings** of **Flex Banners | PapaThemes Beautify** > **General** unchecked **Display banners in container div** and checked **Display content overlaying banner on mobile**.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795518866?h=f6214aafb5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Instr-double"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-### Banner
-
-Desktop
-
-![Banner](img/banner.png)
-
-Mobile
-
-![Banner](img/banner-mb.png)
-
-To create **Banner**:
-
-Drag & drop **Layout** widget to the corresponding position, change **Column** = `1`, **Name** = `BOXED`.
-
-Select **Column 1**, set **Padding** = `0 0 0 0`.
-
-Drag & drop **Flex Banners | PapaThemes Beautify** widget into **Colum 1**. Delete all other banners except the first one.
-
-Upload your image, set **Image width** = `1720px`, **Image height** = `458`, **Border radius** = `30px`. Enable **Show different image on mobile**, upload your image in **Image (Mobile)**, set **Image width (Mobile)** = `388px`, **Image height (Mobile)** = `655px`, **Border radius** = `30px`.
-
-In **Content**, hide **Heading text** if your image has text.
-
-In **General** > **Padding**, set `0` for all values.
-
-In **Settings** of **Flex Banners | PapaThemes Beautify** > **General**, unchecked **Display banners in container div** and checked **Display content overlaying banner on mobile**.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795508011?h=5c2f4c22f2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-### Special products tabs
-
-![special-products-tabs](img/special-products-tabs.jpg)
-
-You can configure special products tabs section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **Special Products Tabs** selected.
-
-In **New / Featured / Bestselling Tabs** section, Change **Number of products** = `5` and **Number of products load more on viewport** = `0`. You can change **Default tab** to `Featured`, `Bestselling` or `New`. **Display type** can be changed to `Carousel` or `Grid`. **Show more button**, **featured products**, **bestselling products**, **new products**, **categories** can be enabled by checked box.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795129596?h=e42a4dcec2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Instr-special product tabs"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### Featured products
 
-![featured-products](img/feature-product.jpg)
+![featured-products](img/featured-products.jpg)
 
 You can set featured products in **Products**, click the **star** icon on the same row to set the product as featured.
 
 Go back to **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **Featured Products** selected. In **Featured products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
 
-### New products
+**Watch the instruction video:**
 
-![new-products](img/new-product.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sfuY8RwGI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### New products
 
 You can configure new products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **New Products** selected. In **New products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
 
 ### Bestselling products
 
-![bestselling-products](img/best-selling-product.jpg)
-
 Bestselling products only display when your store has some order.
 
 You can configure bestselling products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **Popular Products** selected. In **Best-sellers products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
 
-### Recently Viewed Products
+### Customer reviews
 
-![bestselling-products](img/recently-viewed-product.jpg)
+![edit-customer-reviews](img/edit-customer-reviews.jpg)
 
-Recently Viewed Products will be display automatically viewed any product.
+To display the customer reviews on the home page, drag & drop the **Customer Reviews | PapaThemes Beautify** widget to the corresponding position. You can edit the title, content, author directly in the Page Builder.
 
-You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **Recently Viewed Products** selected. In **Recently Viewed Products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
+Select **Style for theme** = `Beautify Furniture` to display the style like our demo store.
+
+To create the title, drag & drop the **Section Heading | PapaThemes Beautify** widget to above the reviews. Set **Padding** = `60 0 20 0` and **Padding (Mobile)** = `40 0 10 0`.
 
 
 ### Instagram photos
 
-![edit-instagram](img/edit-instagram.png)
+![edit-instagram](img/edit-instagram.jpg)
 
 To display your Instagram photos, open <https://instagram.papathemes.com/> Follow the instruction on this page to [Connect your Facebook Page with your Instagram account](https://www.facebook.com/business/help/898752960195806). Then click **Login With Facebook** button and follow the further steps to authorize access permission. Click **Show Embedding Code** button to generate the code embedding to your web store. Choose **Preset** = `Carousel` and select **LazyLoad**.
 
@@ -500,7 +301,7 @@ To create the title, drag & drop the **Section Heading** widget to above the Ins
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795504772?h=06cb1784a7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-instagram"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H_JSLYDae1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Recent blog posts
@@ -509,11 +310,12 @@ To create the title, drag & drop the **Section Heading** widget to above the Ins
 
 You can add blog posts in Storefront > Blog. Click the **+** button to add a new blog post. Make sure **Blog Visibility** is `on`.
 
-To display the recent blog posts on the home page, go to Page Builder. In Theme Styles > Home Page, make sure one of Sections has **Recent Blog** selected. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display. Select **Style** = `Grocery` to display like our demo store. You can change the **Background color** = `#ffffff` or any color you want.
+To display the recent blog posts on the home page, go to Page Builder. In Theme Styles > Home Page, make sure one of Sections has **Recent Blog** selected. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display. Select **Style** = `Grocery` to display like our demo store. You can change the **Background color** = `#f5f5f5` or any color you want.
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795495559?h=4b4939afd5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-blog"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QP6y5tXJyko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Newsletter
 
@@ -521,12 +323,11 @@ To display the recent blog posts on the home page, go to Page Builder. In Theme 
 
 To enable newsletter form, go to **Marketing** > **Email Marketing**, make sure **Allow Newsletter Subscriptions** is checked. Optionally select **Show Newsletter Summary** and enter the summary text as you want.
 
-Go to Page Builder, in **Theme Styles** > **Footer** > **Newsletter** section, select **Style** = `Default`. Select **Show store logo** and **Show social icons** = `In newsletter`.
-Make sure **Show newsletter form** is selected. You can change the **Heading**, **background color**, **background image**, **button** and **text colors**.
+Go to Page Builder, in **Theme Styles** > **Footer** > **Newsletter** section, select **Style** = `Default`. Make sure **Show newsletter form** is selected. You can change the **Heading**, **background color**, **background image**, **button** and **text colors**.
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795101779?h=5c3393ce06&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-newsletter"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gdclE36uP_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Footer
@@ -541,69 +342,110 @@ In **Page Builder** > **Theme Styles** > **Footer**, you can configure the newsl
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795439897?h=4ef5896555&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-footer"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDa7Z-YijUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Setting Up Baby Style Home Page
+#### Add custom links to the footer
+
+![edit-footer-links](img/edit-footer-links.jpg)
+
+You can add custom links to the footer using **Footer Links** widget. Drag & drop the widget to the corresponding position. Edit the links directly in Page Builder.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDa7Z-YijUQ?start=29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Setting Up CBD Style Home Page
 
 ### General
 
 You can read these common instructions in **Setting Up Pets Style Home Page** chapter:
 
 - [Header](#header)
-- [Home page carousel section](#home-page-carousel-section)
+- [Top Banner](#top-banner)
 - [Ad Banner displays on all pages](#ad-banner-displays-on-all-pages)
+- [Trustpilot rating image](#trustpilot-rating-image)
+- [Shop Sale button](#shop-sale-button)
+- [4 Callout icons](#4-callout-icons)
+- [Ad Banner below the header displays on all pages](#ad-banner-below-the-header-displays-on-all-pages)
 - [Main carousel](#main-carousel)
-- [Brand logos](#brand-logos)
-- [Main carousel right banner](#main-carousel-right-banner)
-- [Top categories](#top-categories)
-- [Product by category](#product-by-category)
-- [Kitten and Puppy](#kitten-and-puppy)
-- [Top Brand](#top-brand)
-- [Double banner](#double-banner)
-- [Banner](#banner)
-- [Service icon s](#service-icons)
+- [Service icons](#service-icons)
 - [Category banners](#category-banners)
-- [Special products tabs](#special-products-tabs)
 - [Featured products](#featured-products)
 - [New products](#new-products)
 - [Bestselling products](#bestselling-products)
-- [Recently Viewed Products](#recently-viewed-products)
+- [Customer reviews](#customer-reviews)
 - [Instagram photos](#instagram-photos)
 - [Recent blog posts](#recent-blog-posts)
 - [Newsletter](#newsletter)
 - [Footer](#footer)
 
-### Left-sidebar layout
 
-To display category on left sidebar, in **page builder** > **Theme styles** > **General**. Find **option layout**, select **left-sidebar**.
+### Featured in logos
 
-![left-sidebar](img/left-sidebar.jpg)
+![edit-cbd-featured-in-logos](img/edit-cbd-featured-in-logos.jpg)
 
-## Setting Up Book Style Home Page
+In Page Builder, drag & drop **Flex Banners | PapaThemes Beautify** widget to the corresponding position. Delete all items except the first one. 
+
+Edit the first banner, upload your image in **Image** field. Enter **Image width** and **Image height** accordingly. Set Border radius = 0.
+
+In **Content** group, Click the eye icon next to **Heading text** to hide it.
+
+In **General** group:
+
+- Click the pencil icon next to Width to open the Width configuration panel. Set **Width** = `%`, **Value (Desktop)** = `20%`, **Value (Tablet)** = **Value (Mobile)** = `33.33%` to display 5 images per row on desktop and 3 images per row on mobile & tablet.
+- Click the pencil icon next to **Padding** to open the Padding configuration panel. Set **Desktop** = `20 0 20 0`, **Tablet** = **Mobile** = `10 0 10 0`.
+
+Duplicate to 10 items and change different image for each item.
+
+To display the title, drag & drop the **Section Heading** widget to above the images. Set **Padding** = `60 0 20 0` and **Padding (Mobile)** = `30 0 15 0` and edit the content directly in Page Builder.
+
+Drag & drop the **Spacer | PapaThemes Beautify** widget to below the images and set **Desktop** = `30px`, **Tablet** = `10px`, **Mobile** = `10px`.
+
+Drag & drop the **Button** widget to below the spacer, Set **Padding** = `8 24 8 24`. Enter **Button link** as you want. In **Text** group, set **Font size** = `16px`, **Text color** = **Text color (hover)** = `#ffffff`. In **Style** group, change **Button color** = **Border color** = #1f439e, **Button color (hover)** = **Border color (hover)** = `#0f0f2d`, **Border thickness** = `0`.
+
+Drag & drop the **Spacer | PapaThemes Beautify** widget to below the button and set **Desktop** = `60px`, **Tablet** = `40px`, **Mobile** = `20px`.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQ6XVLFIRv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### FAQ sections
+
+![edit-cbd-faqs-section](img/edit-cbd-faqs-section.jpg)
+
+Drag & drop **Hero Banner** widget to the corresponding position. Enter **Banner link** as you want. Set **Content align** = `Left`. **Banner size** = `Medium`. **Background** = `Image` and upload the image you want to display. Set **Image fit** = `Fill to box`, **Image parallax** = `Off`. **Image align** = `center` & `middle`.
+
+In **Text** group, choose showing **Title** and **Description**. Set Title **Font Size** = `40px` and Description **Font size** = `16px`. **Text color** = `#ffffff`, **Text color (mobile)** = `#0f0f2d`.
+
+In **Button** group, choose showing **Button**. Set **button style** = `Square`, **Button color** = **Button color (mobile)** = `#1f439e`.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SMpiKYIkrIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Setting Up Yoga Style Home Page
 
 ### General
 
 You can read these common instructions in **Setting Up Pets Style Home Page** chapter:
 
 - [Header](#header)
-- [Home page carousel section](#home-page-carousel-section)
+- [Top Banner](#top-banner)
 - [Ad Banner displays on all pages](#ad-banner-displays-on-all-pages)
+- [Trustpilot rating image](#trustpilot-rating-image)
+- [Shop Sale button](#shop-sale-button)
+- [4 Callout icons](#4-callout-icons)
+- [Ad Banner below the header displays on all pages](#ad-banner-below-the-header-displays-on-all-pages)
 - [Main carousel](#main-carousel)
-- [Brand logos](#brand-logos)
-- [Main carousel right banner](#main-carousel-right-banner)
-- [Top categories](#top-categories)
-- [Product by category](#product-by-category)
-- [Kitten and Puppy](#kitten-and-puppy)
-- [Top Brand](#top-brand)
-- [Double banner](#double-banner)
-- [Banner](#banner)
+- [Service icons](#service-icons)
 - [Category banners](#category-banners)
-- [Special products tabs](#special-products-tabs)
 - [Featured products](#featured-products)
 - [New products](#new-products)
 - [Bestselling products](#bestselling-products)
-- [Recently Viewed Products](#recently-viewed-products)
+- [Customer reviews](#customer-reviews)
 - [Instagram photos](#instagram-photos)
 - [Recent blog posts](#recent-blog-posts)
 - [Newsletter](#newsletter)
@@ -672,65 +514,113 @@ In **Button** group, set **Button** = `on`, **Button style** = `Custom`, **Butto
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/msOlPO5qWNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Setting Up Heath-care Style Home Page
+## Setting Up Sport Style Home Page
 
 ### General
 
 You can read these common instructions in **Setting Up Pets Style Home Page** chapter:
 
 - [Header](#header)
-- [Home page carousel section](#home-page-carousel-section)
+- [Top Banner](#top-banner)
 - [Ad Banner displays on all pages](#ad-banner-displays-on-all-pages)
+- [Trustpilot rating image](#trustpilot-rating-image)
+- [Shop Sale button](#shop-sale-button)
+- [4 Callout icons](#4-callout-icons)
+- [Ad Banner below the header displays on all pages](#ad-banner-below-the-header-displays-on-all-pages)
 - [Main carousel](#main-carousel)
-- [Brand logos](#brand-logos)
-- [Main carousel right banner](#main-carousel-right-banner)
-- [Top categories](#top-categories)
-- [Product by category](#product-by-category)
-- [Kitten and Puppy](#kitten-and-puppy)
-- [Top Brand](#top-brand)
-- [Double banner](#double-banner)
-- [Banner](#banner)
-- [Category banners](#category-banners)
-- [Special products tabs](#special-products-tabs)
 - [Featured products](#featured-products)
 - [New products](#new-products)
 - [Bestselling products](#bestselling-products)
-- [Recently Viewed Products](#recently-viewed-products)
+- [Customer reviews](#customer-reviews)
 - [Instagram photos](#instagram-photos)
 - [Recent blog posts](#recent-blog-posts)
 - [Newsletter](#newsletter)
 - [Footer](#footer)
 
+### Shop For icons
 
-### Three Banners
+Please refer [Service icons setup instruction](#service-icons) in Pets Style Home Page.
 
-Desktop
+### Our Brand logos
 
-![three banners](img/three-banners.jpg)
+![edit-sports-brand-logos](img/edit-sports-brand-logos.jpg)
 
-To create **Three Banners**:
+In Page Builder, drag & drop **Flex Banners | PapaThemes Beautify** widget to the corresponding position. Delete all items except the first one.
 
-In **Page Builder**, drag & drop **Layout** widget to the corresponding position. Change **Column** = `1`. Drag and drop **Flex Banners | PapaThemes Beautify** widget into **Column 1** and duplicate **Banner 1** to 3 banners.
+- Edit the first banner, upload your logo image in **Image** field. Set **Image width**, **Image height** accordingly (our recommended size 160x90px). Change **Border radius** = `0`.
+- In **Content** group, Set **Heading text** = `off`.
+- In **General** group:
+  - Click the pencil icon next to **Width** to open Width configuration panel. Set **Width** = `%`, **Value (Desktop)** = `16.66%`, **Value (Tablet)** = **Value (Mobile)** = `33.33%` to display 6 images per row on desktop and 3 images per row on tablet and mobile.
+  - Click the pencil icon next to **Padding** to open Padding configuration panel. Set **Desktop** = **Tablet** = `0 10 0 10`, **Mobile** = `5 5 5 5`.
 
-To edit **Banner 1**, change your image, set **Image width** = `790px`, **Image height** = `435px`. Show different image on mobile and upload your image, set **Image width (Mobile)** = `388px`, **Image height (Mobile)** = `230px`, **Border radius** = `30px`.
+- Duplicate the banner to 6 and upload different image for each banner as you want.
 
-In **Content**, hide **Heading text** if your image already has text.
+To display the title, drag & drop the **Section Heading** widget to above the logo images. Set **Padding** = `60 0 40 0`, **Padding (Mobile)** = `40 0 30 0` and edit the title text directly in Page Builder.
 
-In **General**, choose **Width** = `%`, set **Value (Desktop)** = `46%`, **Value (Tablet)** = `100%`, **Value (Mobile)** = `100%`. Set **Padding** for **Desktop** = `0 10 0 10`, **Table** = `0 15 0 0`, **Mobile** = `21 0 21 0`.
+Drag & drop a **Spacer | PapaThemes Beautify** widget to below the logo images and set **Desktop** = `30px`, **Tablet** = `30px`, **Mobile** = `20px`.
 
-To edit **Banner 2**, change your image, set **Image width** = `435px`, **Image height** = `435px`. If you want to show different image on mobile please enable **Show different image on mobile** upload your image in **Image (Mobile)** field. Set **Border radius** = `30px`.
+Drag & drop a **Text** widget to below the spacer. Set **Text style** = `Custom`, **Font size** = `16px`, **Text color** = `#111111`, and edit the text and link directly in Page Builder.
 
-In **Content**, hide **Heading text** if your image already has text.
+**Watch the instruction video:**
 
-In **General**, choose **Width** = `%`, set **Value (Desktop)** = `25.5%`, **Value (Tablet)** = `50%`, **Value (Mobile)** = `100%`. Set **Padding** for **Desktop** = `0 20 0 0`, **Table** = `0 0 32 0`, **Mobile** = `0 0 0 0`.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9eeJV3ksQmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Set values for **Banner 3** as the same **Banner 2**. In **General** of **Banner 3**, set **Padding** for **Desktop** = `0 0 0 20`, **Tablet** = `0 0 0 15`, **Mobile** = `0 0 0 0`.
 
-### Recent blog
+### Category banners
 
-![Recent blog](img/recent-blog.jpg)
+![edit-sports-category-banners](img/edit-sports-category-banners.jpg)
 
-In **Page Builder** > **Theme Styles** > **Home Page** > **Recent Blog** find **Number of posts**, select `2` to change display **Recent blog**.
+In Page Builder, drag & drop **Flex Banners | PapaThemes Beautify** widget to the corresponding position. Delete all items except the first one.
+
+- Edit the first banner, upload your logo image in **Image** field. Set **Image width**, **Image height** accordingly (our recommended size 610x400px). Change **Border radius** = `0`.
+- In **Content** group:
+  - Set **Content align** = `center` & `bottom`.
+  - Set **Content padding** = `20 20 20 20`.
+  - show all **Heading text**, **Description text** and **Action button**.
+- In **General** group:
+  - Select **Style for theme** = `Kansha Sport`.
+- Edit the text and button text directly in Page Builder.
+- Duplicate the banner to 2 and upload different image for each banner.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JiMCw4pPGuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### We're Here For You parallax banner
+
+![edit-sports-parallax-banner](img/edit-sports-parallax-banner.jpg)
+
+In Page Builder, drag & drop **Leaderboard Banner | PapaThemes Beautify** widget to the corresponding position.
+
+- Upload image in **Image** field and set **Banner height** = `400px`, **Banner height (mobile)** = `240px`.
+- Set **Content align** = `center` & `middle`.
+- Optionally input **Banner link**.
+- Tick on the **Parallax** checkbox.
+- Un-tick **Display in container div** to display the banner image full width.
+- In **Heading** group, set all colors to `#ffffff`.
+- In **Text** group, set all colors to `#ffffff`.
+- In **Button** group, set **Button style** = `Custom`, **Button radius** = `0`, **Button color** = `#ffffff`, **Button color hover** = `#111111`, **Button text color** = `#111111`, **Button text color hover** = `#ffffff`.
+- Edit the text and button directly in Page Builder.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Z2ihKOfNCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Featured video
+
+![edit-sports-featured-video](img/edit-sports-featured-video.jpg)
+
+In Page Builder drag & drop **Layout** to the corresponding position and divide to 3 columns.
+
+Drag & drop the **Video** widget to center column and enter your YouTube or Vimeo video link to **Video URL**.
+
+To display the title, drag & drop **Section Heading | PapaThemes Beautify** widget to above the layout. Set **Padding** = `60 0 30 0`, **Padding (Mobile)** = `40 0 20 0`.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nzug892Ob6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Customizing Products Display
@@ -814,43 +704,16 @@ Go to **Page Builder** > **Theme Styles** > **Products** > **Product Page**.
 
 ### Display sale badge / in-stock badge on PDP
 
+![sale-badges-pdp](img/sale-badges-pdp.jpg)
+
 Go to **Page Builder** > **Theme Styles** > **Products** > **Product Page**.
 
 - Tick **Show sale badge** checkbox.
 - Tick **Show in-stock badge** checkbox.
 
-### Displaying Image gallery 
+### Displaying product image thumbnails vertically or horizontally
 
-#### Image Gallery Position
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**, In **Image gallery position** , select `Left` or `Right` to change Image gallery position .
-
-- `Right`
-
-![pdp-right](img/pdp-right.jpg)
-
-
-
-#### Displaying sub-image as a slider
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**, **Enable thumbnail carousel** section, you can change display thumbnail images to slider or grid.
-
-- `1 row`: Sub-images are displayed in the slider on 1 row.
-
-- `2 rows`: Sub-images are displayed in the slider on 2 row.
-
-- `Hide`: All sub-images are displayed as grid.
-
-![thumbnail-2](img/thumbnail-2.jpg)
-
-
-#### Displaying product image thumbnails vertically
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**, checked **Show image thumbnails vertically** to display product thumbnails vertically, otherwise it's displayed horizontally.
-
-Checked **Show image thumbnails vertically**:
-
-![thumbnails-vertically](img/thumbnail-vertical.jpg)
+**Page Builder** > **Theme Styles** > **Products** > **Product Page**, tick **Show image thumbnails vertically** to display product thumbnails vertically, otherwise it's displayed horizontally.
 
 ### Displaying product bulk pricing inline in table
 
@@ -904,7 +767,7 @@ In **Page Builder** > **Theme Styles** > **Products** > **Swatch display type**:
 - Dropdown: Displaying swatches in the dropdown select box.
 - Dropdown + Square: Displaying swatches in the dropdown select box in addition to regular swatches.
 
-![swatch-dropdown](img/swatch-dropdown.png)
+![swatch-dropdown](img/swatch-dropdown.jpg)
 
 
 ### Displaying Frequently Bought Together Products
@@ -914,8 +777,8 @@ In **Page Builder** > **Theme Styles** > **Products** > **Swatch display type**:
 Enabling this feature in **Page Builder** > **Theme Styles** > **Products** > **Frequently Bought Together**, Select **Position** to display it.
 
 - **Load products from**: Specifing products to display here.
-  - `Custom fields __alsobought`: Specifying the relevant products in product custom fields with name `Wine vintage, Custom Field 1,...` and value is the relevant product ID. For example:
-  ![edit-product-bought-together](img/edit-product-bought-together.jpg)
+  - `Custom fields __alsobought`: Specifying the relevant products in product custom fields with name `__alsobought` and value is the relevant product ID. For example:
+  ![edit-product-bought-together](img/edit-product-bought-together.png)
   - `Related products`: Pulling from the related products.
   - `Similar by biews`: Pulling from customer also viewed products.
 - **Auto select all items**: Auto select or unselect all frequently bought together products.
@@ -952,122 +815,35 @@ In **Page Builder** > **Theme Styles** > **Products** > **Image Sizes**:
 - Zoomed image: Specifying the zoomed image size.
 - Image in gallery view: Specifying product card image size.
 
-### Shipping countdown
-
-![shipping-countdown](img\Shipping-countdown.jpg)
-
-To enable shipping countdown, **Theme styles** > **Product page**  find **shipping countdown** field and input your cut off time. Find and copied your timezone from wikipedia `https://en.wikipedia.org/wiki/List_of_tz_database_time_zones` to **timezone** field.
-
-Note: The time before cut off the message will show **shipping today** after cut off the message will show **shipping tomorrow**
-
-### Flash sales
-
-![Flash-sales](img\flash-sales.jpg)
-
-To create flash sales bar for each product, in **product** select the product that you want to add flash sale bar. 
-
-Find customer fields, click on add **Add Custom Field**. Copy `__countdown_label` and paste into **Custom Field Name:**. in **Custom Field Value:**, type your content following format: `<your banner name>|<end in>` (example: FLASH SALES|ENDS IN). 
-
-Create another custom field, Copy `__countdown_date` and paste into **Custom Field Name:**. in **Custom Field Value:**, enter your cut off time following the format: `<yyyy>-<mm>-<dd> <hh>:<mm>:<ss><timezone>` (example: 2023-03-15 17:00:00-7).
-
-Note:
-
-- `<yyyy>-<mm>-<dd>` is optional. If the date is not entered, the banner will repeat automatically right after pass cut off time.
-  
-- `<hh>:<mm>:<ss>` is 24 hour format.
-  
-- `<timezone>` only input `+ or -` and `number` example: `+7`. if timezone are not entered, the countdown time will be different in different countries.
-### Brand logo in product detail
-
-![brand logo in product detail](img/brand-logo.jpg)
-
-To display **Brand logo** in product detail, in **Page Builder** > **Products** > **Product Page** find and check **Show brand image** option.
-
-
-### Ask question
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page** find **Ask question (contact page URL)** and enter `/contact-us/` to display **Ask Questions?**.
-
-![ask question](img/ask-question.jpg)
-
-
-### Nutrients & Directions
-
-![Nutrients & Directions result](img/nutrients-directions-link.jpg)
-
-To create additional information link:
-
-In **Storefront** > **Web Pages**, click on the **Create a Web Page** button to create new webpage.
-
-In **Web Page Details**, enter your page name in **Page Name** field, **Page URL** will be automatically generated. In **Page content** field enter your content.
-
-Uncheck **Navigation Menu** options.
-
-In **Advanced Options** set **Sort Order** = `2`.
-
-To display the additional information link in the product detail page:
-
-In **Products**, select the product you want to display the link. Find **Custom Fields**, created new custom field. Set **Custom Fields Name** = `__guide_popup` and **Custom Fields Value** = `<your page name>|<Page URL>` (example: `Nutrients & Directions|/nutrients-directions/`) then save.
-
-**Watch the instruction video:**
-
-(wait a resource)
-
-
-### Video image product detail page
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page** find **Show videos** select `tab` or `image gallery` to change display video position.
-
-Videos displayed in **tab** options:
-
-![video image product detail tab option](img/video-image-PDP-tab.png)
-
-Videos displayed in **image gallery** option:
-
-![video image product detail image gallery option](img/video-image-PDP-image-gallery.png)
 
 ## Customizing Category Pages
 
 Configuring the category pages in **Page Builder** > **Theme Styles** > **Products** > **Category Page**.
 
-### Category Layout Type
-
-Theme supports displaying category Page layout in `Full width` mode or `Left sidebar` mode. In **Layout**, select the particular display mode for default display.
-
-- **Layout** = `Full width`
-
-![full-width](img/category-fullwidth.jpg)
-
-- **Layout** = `Left sidebar`
- 
-![left-sidebar](img/category-leftsidebar.jpg)
-
 ### Products Display Type
 
-Theme supports displaying products in grid mode (2, 3, 4 or 6 products per row), in list mode or bulk order mode. In **Products display type**, select the particular display mode for default display.
+Theme supports displaying products in grid mode (2, 3, 4 or 6 products per row) or in list mode or bulk order mode. In **Products display type**, select the particular display mode.
 
-- **Display type** on the right allow your customers to change product category display by themselves.
-![products-display-type-by-customer](img/products-display-type-by-customer.jpg)
+- **Show bulk order mode (if select, list mode replaced by bulk order mode)**: if selected, the Bulk Order layout mode will display instead of the regular list mode.
 
 **Grid 6 columns:**
 
 ![products-display-type-grid6](img/products-display-type-grid6.jpg)
 
+**Bulk Order mode:**
+
+![products-display-type-bulk-order](img/products-display-type-bulk-order.jpg)
+
 **List mode:**
 
 ![products-display-type-list](img/products-display-type-list.jpg)
 
-### Display Bulk Order layout
-
-To display this bulk order layout, select **Products display type** = `Bulk order`.
-
-![products-display-type-bulk-order](img/products-display-type-bulk-order.jpg)
 
 ### Displaying Shop by Brand
 
 - **Shop by Brand**: Specifying number of popular brands to display.
 
-![popular-brands-sidebar](img/popular-brands-bar.jpg)
+![popular-brands-sidebar](img/popular-brands-sidebar.jpg)
 
 ### Displaying Price Slider
 
@@ -1078,19 +854,11 @@ To display this bulk order layout, select **Products display type** = `Bulk orde
 
 ![shop-by-price-slider](img/shop-by-price-slider.jpg)
 
-### Infinite Products Loading
+### Display Bulk Order layout
 
-This feature allows you to choose the method of loading more products in the current catalog.
+To display this bulk order layout, select **Products display type** = `List`, and tick **Show bulk order mode (if select, list mode replaced by bulk order mode)**.
 
-![infinite-product-loading](img/infinite-product-loading.jpg)
-
-**Infinite Products Loading**:
-
-  - `On scroll`: Products will automatic loadout when scrolling down.
-
-  - `Load more button`: Click on the **Load more button** to continue loading more products.
-
-  - `Off`: Show **page numbers** and **arrow** button as original. Click on button to see more products.
+![products-display-type-bulk-order](img/products-display-type-bulk-order.jpg)
 
 ### Display contextual search
 
@@ -1142,7 +910,7 @@ In **Storefront** > **Marketing Banner**, click **Create a Banner** button.
 
 Watch the instruction video:
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796915050?h=fa4bc20f8c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Instr-Brand description"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Rasj8d5TtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
