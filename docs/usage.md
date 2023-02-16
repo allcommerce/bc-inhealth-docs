@@ -48,7 +48,7 @@ To start customizing the theme, login to your admin panel, go to **Storefront** 
 
 To configure the header, click on **Theme Styles** > **Header** section, here you can config the header colors, store logo position and size.
 
-**User Navigation** allows to change colors of icon cart,recently viewed , account and text phone number.
+**User Navigation** allows to change colors of icon cart, recently viewed , account and text phone number.
 
 **Top Bar** section allows to change color of this top bar.
 
@@ -56,6 +56,13 @@ To configure the header, click on **Theme Styles** > **Header** section, here yo
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796872043?h=5d2873e4a6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-header"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+#### Quick search
+
+**Quick Search** allows user to change the colors of the search form.
+
+To configure the **Quick Search**, click on **Theme Styles** > **Header**. In **Quick Search** section you can change text colors, hover, border, and background of the search field.
+
+![header-quick-search](img/quick-search.jpg)
 #### Main Navigation
 
 **Main Navigation** allows to customize this navigation bar like changing the menu type to column, dropdown menu or mega menu; changing colors of the top menu as well as the sub-menus. There is an option "**Hide webpage links**" that allows to hide the static web page links on the main navigation.
@@ -748,17 +755,6 @@ Videos displayed in **image gallery** option:
 
 Configuring the category pages in **Page Builder** > **Theme Styles** > **Products** > **Category Page**.
 
-### Category Layout Type
-
-Theme supports displaying category Page layout in `Full width` mode or `Left sidebar` mode. In **Layout**, select the particular display mode for default display.
-
-- **Layout** = `Full width`
-
-![full-width](img/category-fullwidth.jpg)
-
-- **Layout** = `Left sidebar`
- 
-![left-sidebar](img/category-leftsidebar.jpg)
 
 ### Products Display Type
 
@@ -775,11 +771,6 @@ Theme supports displaying products in grid mode (2, 3, 4 or 6 products per row),
 
 ![products-display-type-list](img/products-display-type-list.jpg)
 
-### Display Bulk Order layout
-
-To display this bulk order layout, select **Products display type** = `Bulk order`.
-
-![products-display-type-bulk-order](img/products-display-type-bulk-order.jpg)
 
 ### Displaying Shop by Brand
 
