@@ -62,7 +62,10 @@ To configure the header, click on **Theme Styles** > **Header** section, here yo
 
 To configure the **Quick Search**, click on **Theme Styles** > **Header**. In **Quick Search** section you can change text colors, hover, border, and background of the search field.
 
-![header-quick-search](img/quick-search.jpg)
+![header-quick-search](img/quick-search.png)
+
+
+
 #### Main Navigation
 
 **Main Navigation** allows to customize this navigation bar like changing the menu type to column, dropdown menu or mega menu; changing colors of the top menu as well as the sub-menus. There is an option "**Hide webpage links**" that allows to hide the static web page links on the main navigation.
@@ -109,6 +112,32 @@ You can also hide or **Show web page links** and **Show widgets in the mega menu
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796851987?h=a75fba7b62&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-main navigation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+### Top Banner
+
+The top banner can be created in **Marketing** > **Banners**, click **Create a Banner** button, enter Banner Name, Banner Content, select Show on Page = Home Page, select Location = Top of Page.
+
+Go back to **Storefront** > **My Themes** > click **Customize** button beside the theme thumbnail. You can see the top banner appears above the header. To change the colors of the top banner, go to **Theme Styles** > **General** > **Top banners** section. Here you can change the text color and the background color.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AWPZNKszf6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Ad Banner displays on all pages
+
+To display the ad banner appearing on all pages on the header, drag and drop the HTML widget to the corresponding position, paste the given code below to the HTML editor, then click Save HTML button.
+
+```html
+<p data-marquee>
+  Free shipping over 59 Euro - Code FREESHIPPING - Next Day Delivery - SAFE &amp; SECURE ONLINE SHOPPING
+</p>
+```
+
+The code allows to animate the text sliding from left to right on smaller screen.
+
+**Watch the instruction video:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gG1WesJPkkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Main carousel
 
 ![main-carousel-manager](img/main-carousel-manager.png)
@@ -125,25 +154,27 @@ Go back to **Page Builder**, in **Theme Styles** > **Home Page**, make sure **Ca
 ![our-best-sellers](img/our-best-sellers.png)
 
 To create **Our best sellers**:
-Drag & drop **Layout** widget to the corresponding position, change **Columns** = `1`, **Name** = `SHOP BY CATEGORY`,select the **Column 1**
-Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "Our best sellers"), set **Padding** = `60 0 10 0` and **Padding (Mobile)**= `40 0 10 0`.
+Drag & drop **Layout** widget to the corresponding position change **Columns** = `1`, **Name** = `SHOP BY CATEGORY`
+
+Select the **Column 1**,Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "Our best sellers"), set **Padding** = `60 0 10 0` and **Padding (Mobile)**= `40 0 10 0`.
+
 Drag & drop **CALLOUT ICONS | PAPATHEMES BEAUTIFY** widget below **Section Heading | PapaThemes Beautify** widget. Delete all other banners except the first one.
 
-In **Style** select Large
+**Style** = `Large`
 
-In **Width** select Auto
+**Width** = `Auto`
 
-In **Padding**  panel set value **Desktop** = `45 5 0 5`, **Tablet** and **Mobile**= `20 5 20 5`.
+**Padding**  panel set value **Desktop** = `45 5 0 5`, **Tablet** and **Mobile** = `20 5 20 5`.
 
-In **Icon** select Choose Image
+**Icon** = `Choose Image`
 
-In **Icon Size** select Custom
+**Icon Size** = `Custom`
 
-In **Icon width** select `145px`
+**Icon width** = `145px`
 
-In **Icon height** select `145px`
+**Icon height** = `145px`
 
-In **Text style** select  theme default
+**Text style** =  `theme default`
 
 
 ### Top Brand
@@ -158,15 +189,15 @@ Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**
 
 Drag & drop **CALLOUT ICONS | PAPATHEMES BEAUTIFY** widget below **Section Heading | PapaThemes Beautify** widget. Delete all other banners except the first one.
 
-In **General** > **Padding** panel set value **Desktop** = `45 5 45 5`, **Tablet** and **Mobile**= `20 5 20 5`.
+**General** > **Padding** panel set value **Desktop** = `45 5 45 5`, **Tablet** and **Mobile**= `20 5 20 5`.
 
-In **Content**, hide **Heading text** if your image has text.
+**Content**, hide **Heading text** if your image has text.
 
-In **Style** select `Large`
+**Style** = `Large`
 
-In **Icon** select `Choose Image`
+**Icon** = `Choose Image`
 
-In **Icon Size** select `Custom`
+**Icon Size** = `Custom`
 
 Upload your image, change the width and height of the image as you want in **IconWidth** and **IconHeight**.
 
@@ -177,13 +208,13 @@ Duplicate to 6 banners and upload images according to each banner.
 
 Drag & drop **text** widget below **CALLOUT ICONS | PAPATHEMES BEAUTIFY** widget .
 
-In **Text style**, select `custom`. 
+**Text style** = `custom`. 
 
-In **Font Weight**, select `Semi Bold`.
+**Font Weight** = `Semi Bold`.
 
-In **Font Size**, select `16px`.
+**Font Size** = `16px`.
 
-In **Text color**, select `#333333` 
+**Text color** = `#333333` 
 
 Insert/Edit Links with URL :`brands/`
 
@@ -211,11 +242,11 @@ Drag & drop **Flex Banners | PapaThemes Beautify** widget into **Colum 1**. Dele
 
 Upload your image, set **Image width** = `1720px`, **Image height** = `458`, **Border radius** = `30px`. Enable **Show different image on mobile**, upload your image in **Image (Mobile)**, set **Image width (Mobile)** = `388px`, **Image height (Mobile)** = `655px`, **Border radius** = `30px`.
 
-In **Content**, hide **Heading text** if your image has text.
+**Content**, hide **Heading text** if your image has text.
 
-In **General** > **Padding**, set `0` for all values.
+**General** > **Padding**, set `0` for all values.
 
-In **Settings** of **Flex Banners | PapaThemes Beautify** > **General**, unchecked **Display banners in container div** and checked **Display content overlaying banner on mobile**.
+**Settings** of **Flex Banners | PapaThemes Beautify** > **General**, unchecked **Display banners in container div** and checked **Display content overlaying banner on mobile**.
 
 **Watch the instruction video:**
 
