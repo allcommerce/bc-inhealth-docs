@@ -48,7 +48,7 @@ To start customizing the theme, login to your admin panel, go to **Storefront** 
 
 To configure the header, click on **Theme Styles** > **Header** section, here you can config the header colors, store logo position and size.
 
-**User Navigation** allows to change colors of icon cart, recently viewed , account and text phone number.
+**User Navigation** allows to change colors of icon cart, recently viewed, account and text phone number.
 
 **Top Bar** section allows to change color of this top bar.
 
@@ -153,75 +153,31 @@ Go back to **Page Builder**, in **Theme Styles** > **Home Page**, make sure **Ca
 ### Our best sellers
 ![our-best-sellers](img/our-best-sellers.png)
 
-To create **Our best sellers**:
-Drag & drop **Layout** widget to the corresponding position change **Columns** = `1`, **Name** = `SHOP BY CATEGORY`
+To create **Our best sellers**, drag & drop **Layout** widget to the corresponding position change **Columns** = `1`, **Name** = `SHOP BY CATEGORY`.
 
-Select the **Column 1**,Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "Our best sellers"), set **Padding** = `60 0 10 0` and **Padding (Mobile)**= `40 0 10 0`.
+Select the **Column 1**, set **Padding** = `0`, drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "Our best sellers"), set **Padding** = `60 0 10 0` and **Padding (Mobile)**= `40 0 10 0`.
 
-Drag & drop **CALLOUT ICONS | PAPATHEMES BEAUTIFY** widget below **Section Heading | PapaThemes Beautify** widget. Delete all other banners except the first one.
+Drag & drop **CALLOUT ICONS | PAPATHEMES BEAUTIFY** widget below **Section Heading | PapaThemes Beautify** widget. Delete all other **callout icons** except the first one.
 
-**Style** = `Large`
+In **Callout 1**, set **Padding** panel set value for **Desktop** = `45 5 0 5`, **Tablet** and **Mobile** = `20 5 20 5`, upload your image. Select **Icon size** choose `custom` change **Icon width** and **Icon height** = `145`. In **Link** typing your link you want.
 
-**Width** = `Auto`
-
-**Padding**  panel set value **Desktop** = `45 5 0 5`, **Tablet** and **Mobile** = `20 5 20 5`.
-
-**Icon** = `Choose Image`
-
-**Icon Size** = `Custom`
-
-**Icon width** = `145px`
-
-**Icon height** = `145px`
-
-**Text style** =  `theme default`
-
+Duplicate Callout 1 to quantity that you want, change icon image for each icon.
 
 ### Top Brand
 
 ![top-brand](img/top-brand.png)
 
-To create **Top brand**:
+To create **Top brand**, drag & drop **Layout** widget to the corresponding position change **Columns** = `1`. In **LAYOUT BACKGROUND** >  **Background** select `Color`, in **Background color** set color = `#EEEEEE`.
 
-Drag & drop **Layout** widget to the corresponding position, change **Columns** = `1`, select the **Column 1** set **Padding** = `0 0 0 0`. In **COLUMN BACKGROUND** choose **Background color** = `#EEEEEE` .
+Select the **Column 1** set **Padding** = `0`. Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "Top Brands"), set **Padding** = `60 0 10 0`, **Padding (Mobile)** = `40 0 10 0`.
 
-Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "Top Brands"), select custom in **Text style** field, set  **Padding** = `60 0 10 0`, **Padding (Mobile)** = `40 0 10 0`.
+Drag & drop **CALLOUT ICONS | PAPATHEMES BEAUTIFY** widget below **Section Heading | PapaThemes Beautify** widget. Delete all other **callout icons** except the first one.
 
-Drag & drop **CALLOUT ICONS | PAPATHEMES BEAUTIFY** widget below **Section Heading | PapaThemes Beautify** widget. Delete all other banners except the first one.
+In **Callout 1**, set **Padding** panel set value **Desktop** = `45 5 45 5`, **Tablet** and **Mobile**= `20 5 20 5` , upload your image. Select **Icon size** choose `custom`, change the width and height of the image as you want in **IconWidth** and **IconHeight**. Turn off **Show text**. 
 
-**General** > **Padding** panel set value **Desktop** = `45 5 45 5`, **Tablet** and **Mobile**= `20 5 20 5`.
+Duplicate Callout 1 to quantity that you want, change icon image for each icon.
 
-**Content**, hide **Heading text** if your image has text.
-
-**Style** = `Large`
-
-**Icon** = `Choose Image`
-
-**Icon Size** = `Custom`
-
-Upload your image, change the width and height of the image as you want in **IconWidth** and **IconHeight**.
-
-Turn off **Show text**
-
-Duplicate to 6 banners and upload images according to each banner.
-
-
-Drag & drop **text** widget below **CALLOUT ICONS | PAPATHEMES BEAUTIFY** widget .
-
-**Text style** = `custom`. 
-
-**Font Weight** = `Semi Bold`.
-
-**Font Size** = `16px`.
-
-**Text color** = `#333333` 
-
-Insert/Edit Links with URL :`brands/`
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796197736?h=6915ba753b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-Top Brand"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
+Drag & drop **text** widget. In **Text** > **font-weight** select `Semi Bold`, **font size** = `16px`, double click in text choose `icon with text Insert/edit Link` and add the link you want
 ### Banner
 
 Desktop
@@ -383,7 +339,7 @@ You can read these common instructions in **Setting Up Pets Style Home Page** ch
 - [Service icon s](#service-icons)
 - [Category banners](#category-banners)
 - [Special products tabs](#special-products-tabs)
-- [Featured products](#featured-products)
+- [Featured products](#featured-products) 
 - [New products](#new-products)
 - [Bestselling products](#bestselling-products)
 - [Recently Viewed Products](#recently-viewed-products)
@@ -818,20 +774,6 @@ Theme supports displaying products in grid mode (2, 3, 4 or 6 products per row),
 
 ![shop-by-price-slider](img/shop-by-price-slider.jpg)
 
-### Infinite Products Loading
-
-This feature allows you to choose the method of loading more products in the current catalog.
-
-![infinite-product-loading](img/infinite-product-loading.jpg)
-
-**Infinite Products Loading**:
-
-  - `On scroll`: Products will automatic loadout when scrolling down.
-
-  - `Load more button`: Click on the **Load more button** to continue loading more products.
-
-  - `Off`: Show **page numbers** and **arrow** button as original. Click on button to see more products.
-
 ### Display contextual search
 
 This feature allows searching products within the current category and the current selected filter.
@@ -873,7 +815,7 @@ Configuring the search results page in **Page Builder** > **Theme Styles** > **P
 
 ![brand-quick-view](img/brand-quick-view.jpg)
 
-In **Storefront** > **Marketing Banner**, click **Create a Banner** button. 
+In **Marketing** > **Banner**, click **Create a Banner** button. 
 
 - Enter the brand introduction content to **Banner Content**.
 - Select **Show on Page** = `For a Specific Brand` and select the corresponding brand.
