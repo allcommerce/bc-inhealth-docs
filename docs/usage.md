@@ -408,21 +408,11 @@ In **Settings** of **Flex Banners | PapaThemes Beautify** > **General** unchecke
 
 ![Banner](img/banner.png)
 
-To create **Banner**:
-
-Drag & drop **Layout** widget to the corresponding position, change **Column** = `1`.
-
-Select **Column 1**, set **Padding** = `0 0 0 0`.
+To create **Banner**, Drag & drop **Layout** widget to the corresponding position, change **Column** = `1`. Select **Column 1**, set **Padding** = `0 0 0 0`.
 
 Drag & drop **Flex Banners | PapaThemes Beautify** widget into **Colum 1**. Delete all other banners except the first one.
 
-Upload your image, set **Image width** = `1920px`, **Image height** = `711px`.
-
-In **Content**, hide **Heading text** if your image has text.
-
-In **General** > **Padding**, set `0` for all values.
-
-In **General**, unchecked **Display banners in container div**.
+Upload your image, set **Image width** = `1920px`, **Image height** = `711px`. In **Content**, hide **Heading text** if your image has text. In **General** > **Padding**, set `0` for all values. In **General**, unchecked **Display banners in container div**.
 
 **Watch the instruction video:**
 
@@ -459,7 +449,7 @@ Drag & drop **Layout** widget to the corresponding position, change **Column** =
 
 Drag and drop **Section Heading | PapaThemes Beautify** widget into **Column 1**. Typing your text (example "What Customers Say"), set **Padding** = `60 0 30 0`, **Padding (Mobile)** = `40 0 20 0`.
 
-Drag and drop **Callout Icons | PapaThemes Beautify** below **Section Heading | PapaThemes Beautify** widget. Delete all other banners except the first one.
+Drag and drop **Callout Icons | PapaThemes Beautify** below **Section Heading | PapaThemes Beautify** widget. Delete all other **Callout Icons** except the first one.
 In **Padding** panel set `20 5 20 5` for **Desktop**, set `20 5 0 5` for **Table** and **Mobile**. In **Icon** select `Custom HTML/SVG`, copy and paste the given code below to the HTML editor, then click Save HTML button.
 
 ```html
@@ -477,19 +467,9 @@ In **Padding** panel set `20 5 20 5` for **Desktop**, set `20 5 0 5` for **Table
 
  Typing your text (example "7.000 +  Verified Reviews (4.8 out of 5)").
 
- Drag and drop **Customer Reviews | PapaThemes Beautify** below **Callout Icons | PapaThemes Beautify** widget. Delete all other banners except the first one.
+ Drag and drop **Customer Reviews | PapaThemes Beautify** below **Callout Icons | PapaThemes Beautify** widget. Delete all other **Customer Reviews** except the first one.
 
- In **Title**  Typing your text(In this example, we are leaving it empty).
-
- In **Content** typing positive reviews in the input field.
-
- In **Rating** select number of stars for reviews.
-
- In **Author** typing the author's name of the reviewer.
-
- In **Style for theme** select style  you want ( in this example select `InHealth` ).
-
- Duplicate to 4 reviews and change content according to each review.
+ In **Title**  Typing your text(In this example, we are leaving it empty). In **Content** typing positive reviews in the input field. In **Rating** select number of stars for reviews. In **Author** typing the author's name of the reviewer. In **Style for theme** select style  you want ( in this example select `InHealth` ). Duplicate to 4 reviews and change content according to each review.
 
 
 ### Recent blog posts
