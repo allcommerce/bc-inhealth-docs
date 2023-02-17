@@ -37,7 +37,7 @@ Verify the widgets installed successfully if they appear in Page Builder:
 ![custom-widgets-appear](img/custom-widgets-appear.jpg)
 
 
-## Setting Up Pets Style Home Page
+## Setting Up CBD Style Home Page
 
 To start customizing the theme, login to your admin panel, go to **Storefront** > **My Themes**, click **Customize** button next to theme thumbnail.
 
@@ -406,46 +406,27 @@ In **Settings** of **Flex Banners | PapaThemes Beautify** > **General** unchecke
 
 ### Banner
 
-Desktop
-
 ![Banner](img/banner.png)
-
-Mobile
-
-![Banner](img/banner-mb.png)
 
 To create **Banner**:
 
-Drag & drop **Layout** widget to the corresponding position, change **Column** = `1`, **Name** = `BOXED`.
+Drag & drop **Layout** widget to the corresponding position, change **Column** = `1`.
 
 Select **Column 1**, set **Padding** = `0 0 0 0`.
 
 Drag & drop **Flex Banners | PapaThemes Beautify** widget into **Colum 1**. Delete all other banners except the first one.
 
-Upload your image, set **Image width** = `1720px`, **Image height** = `458`, **Border radius** = `30px`. Enable **Show different image on mobile**, upload your image in **Image (Mobile)**, set **Image width (Mobile)** = `388px`, **Image height (Mobile)** = `655px`, **Border radius** = `30px`.
+Upload your image, set **Image width** = `1920px`, **Image height** = `711px`.
 
 In **Content**, hide **Heading text** if your image has text.
 
 In **General** > **Padding**, set `0` for all values.
 
-In **Settings** of **Flex Banners | PapaThemes Beautify** > **General**, unchecked **Display banners in container div** and checked **Display content overlaying banner on mobile**.
+In **General**, unchecked **Display banners in container div**.
 
 **Watch the instruction video:**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795508011?h=5c2f4c22f2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-### Special products tabs
-
-![special-products-tabs](img/special-products-tabs.jpg)
-
-You can configure special products tabs section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **Special Products Tabs** selected.
-
-In **New / Featured / Bestselling Tabs** section, Change **Number of products** = `5` and **Number of products load more on viewport** = `0`. You can change **Default tab** to `Featured`, `Bestselling` or `New`. **Display type** can be changed to `Carousel` or `Grid`. **Show more button**, **featured products**, **bestselling products**, **new products**, **categories** can be enabled by checked box.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795129596?h=e42a4dcec2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Instr-special product tabs"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### Featured products
 
@@ -455,12 +436,6 @@ You can set featured products in **Products**, click the **star** icon on the sa
 
 Go back to **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **Featured Products** selected. In **Featured products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
 
-### New products
-
-![new-products](img/new-product.jpg)
-
-You can configure new products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **New Products** selected. In **New products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
-
 ### Bestselling products
 
 ![bestselling-products](img/best-selling-product.jpg)
@@ -469,38 +444,52 @@ Bestselling products only display when your store has some order.
 
 You can configure bestselling products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **Popular Products** selected. In **Best-sellers products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
 
-### Recently Viewed Products
+### New products
 
-![bestselling-products](img/recently-viewed-product.jpg)
+![new-products](img/new-product.jpg)
 
-Recently Viewed Products will be display automatically viewed any product.
-
-You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **Recently Viewed Products** selected. In **Recently Viewed Products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
+You can configure new products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field has **New Products** selected. In **New products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**),changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
 
 
-### Instagram photos
+### Customers Reviews
 
-![edit-instagram](img/edit-instagram.png)
+![new-products](img/customers-review.jpg)
 
-To display your Instagram photos, open <https://instagram.papathemes.com/> Follow the instruction on this page to [Connect your Facebook Page with your Instagram account](https://www.facebook.com/business/help/898752960195806). Then click **Login With Facebook** button and follow the further steps to authorize access permission. Click **Show Embedding Code** button to generate the code embedding to your web store. Choose **Preset** = `Carousel` and select **LazyLoad**.
+Drag & drop **Layout** widget to the corresponding position, change **Column** = `1`.
 
-Copy all the code appear in Step 1 & Step 2. For example:
+Drag and drop **Section Heading | PapaThemes Beautify** widget into **Column 1**. Typing your text (example "What Customers Say"), set **Padding** = `60 0 30 0`, **Padding (Mobile)** = `40 0 20 0`.
+
+Drag and drop **Callout Icons | PapaThemes Beautify** below **Section Heading | PapaThemes Beautify** widget. Delete all other banners except the first one.
+In **Padding** panel set `20 5 20 5` for **Desktop**, set `20 5 0 5` for **Table** and **Mobile**. In **Icon** select `Custom HTML/SVG`, copy and paste the given code below to the HTML editor, then click Save HTML button.
 
 ```html
-<script>!function(){var a=document.createElement("script");a.defer=!0,a.src="https://papathemes.s3.amazonaws.com/instagramapp/assets/js/embed-1.0.1.js",a.onload=function(){PapathemesInstagramApp.init({account_id:"****************",element_id:"papainstagram-render",limit:"20",preset:"grid",lazyload:"false"})},document.body.appendChild(a)}();</script>
-
-<div id="papainstagram-render"></div>
+<svg id="RATING" xmlns="http://www.w3.org/2000/svg" width="113.167" height="15.959" viewBox="0 0 113.167 15.959">
+  <g id="Group-7">
+    <path id="star" d="M13.166,15.837,8.705,13.062,4.245,15.837a.819.819,0,0,1-.9-.026.744.744,0,0,1-.292-.818l1.4-4.753L.281,6.856A.741.741,0,0,1,.039,6.04a.786.786,0,0,1,.7-.522l5-.346L7.985.444a.805.805,0,0,1,1.44,0l2.25,4.728,5,.346a.786.786,0,0,1,.7.522.741.741,0,0,1-.242.816L12.961,10.24l1.4,4.753a.744.744,0,0,1-.292.818.818.818,0,0,1-.9.026Z" transform="translate(0)" fill-rule="evenodd" fill="rgb(0,0,0)"/>
+    <path id="star-2" data-name="star" d="M13.166,15.837,8.705,13.062,4.245,15.837a.819.819,0,0,1-.9-.026.744.744,0,0,1-.292-.818l1.4-4.753L.281,6.856A.741.741,0,0,1,.039,6.04a.786.786,0,0,1,.7-.522l5-.346L7.985.444a.805.805,0,0,1,1.44,0l2.25,4.728,5,.346a.786.786,0,0,1,.7.522.741.741,0,0,1-.242.816L12.961,10.24l1.4,4.753a.744.744,0,0,1-.292.818.818.818,0,0,1-.9.026Z" transform="translate(23.939)" fill-rule="evenodd" fill="rgb(0,0,0)"/>
+    <path id="star-3" data-name="star" d="M13.166,15.837,8.705,13.062,4.245,15.837a.819.819,0,0,1-.9-.026.744.744,0,0,1-.292-.818l1.4-4.753L.281,6.856A.741.741,0,0,1,.039,6.04a.786.786,0,0,1,.7-.522l5-.346L7.985.444a.805.805,0,0,1,1.44,0l2.25,4.728,5,.346a.786.786,0,0,1,.7.522.741.741,0,0,1-.242.816L12.961,10.24l1.4,4.753a.744.744,0,0,1-.292.818.818.818,0,0,1-.9.026Z" transform="translate(47.878)" fill-rule="evenodd" fill="rgb(0,0,0)"/>
+    <path id="star-4" data-name="star" d="M13.166,15.837,8.705,13.062,4.245,15.837a.819.819,0,0,1-.9-.026.744.744,0,0,1-.292-.818l1.4-4.753L.281,6.856A.741.741,0,0,1,.039,6.04a.786.786,0,0,1,.7-.522l5-.346L7.985.444a.805.805,0,0,1,1.44,0l2.25,4.728,5,.346a.786.786,0,0,1,.7.522.741.741,0,0,1-.242.816L12.961,10.24l1.4,4.753a.744.744,0,0,1-.292.818.818.818,0,0,1-.9.026Z" transform="translate(71.817)" fill-rule="evenodd" fill="rgb(0,0,0)"/>
+    <path id="star-5" data-name="star" d="M13.166,15.837,8.705,13.062,4.245,15.837a.819.819,0,0,1-.9-.026.744.744,0,0,1-.292-.818l1.4-4.753L.281,6.856A.741.741,0,0,1,.039,6.04a.786.786,0,0,1,.7-.522l5-.346L7.985.444a.805.805,0,0,1,1.44,0l2.25,4.728,5,.346a.786.786,0,0,1,.7.522.741.741,0,0,1-.242.816L12.961,10.24l1.4,4.753a.744.744,0,0,1-.292.818.818.818,0,0,1-.9.026Z" transform="translate(95.756)" fill-rule="evenodd" fill="rgb(0,0,0)"/>
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M1.73,10.774a.806.806,0,0,1-.429-.122L0,9.843V0L4.812.334a.777.777,0,0,1,.694.521.737.737,0,0,1-.242.816L1.1,5.055l1.4,4.754a.747.747,0,0,1-.291.818A.819.819,0,0,1,1.73,10.774Z" transform="translate(107.62 5.184)" fill="rgb(200,200,200)" stroke="rgb(200,200,200)"/>
+  </g>
+</svg>
 ```
 
-Go back to your store Page Builder. Drag & drop the HTML widget to the corresponding position. Paste the generated code above to the HTML editor, and click **Save HTML** button. Your Instagram photos should display like our demo store.
+ Typing your text (example "7.000 +  Verified Reviews (4.8 out of 5)").
 
-Please note that the app only updates your latest uploaded photos every 6 hours.
+ Drag and drop **Customer Reviews | PapaThemes Beautify** below **Callout Icons | PapaThemes Beautify** widget. Delete all other banners except the first one.
 
-To create the title, drag & drop the **Section Heading** widget to above the Instagram photos. Set **Padding** = `40 0 40 0` and **Padding (Mobile)** = `20 0 20 0`.
+ In **Title**  Typing your text(In this example, we are leaving it empty).
 
-**Watch the instruction video:**
+ In **Content** typing positive reviews in the input field.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795504772?h=06cb1784a7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-instagram"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+ In **Rating** select number of stars for reviews.
+
+ In **Author** typing the author's name of the reviewer.
+
+ In **Style for theme** select style  you want ( in this example select `InHealth` ).
+
+ Duplicate to 4 reviews and change content according to each review.
 
 
 ### Recent blog posts
@@ -509,7 +498,7 @@ To create the title, drag & drop the **Section Heading** widget to above the Ins
 
 You can add blog posts in Storefront > Blog. Click the **+** button to add a new blog post. Make sure **Blog Visibility** is `on`.
 
-To display the recent blog posts on the home page, go to Page Builder. In Theme Styles > Home Page, make sure one of Sections has **Recent Blog** selected. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display. Select **Style** = `Grocery` to display like our demo store. You can change the **Background color** = `#ffffff` or any color you want.
+To display the recent blog posts on the home page, go to Page Builder. In **Theme Styles** > **Home Page**, make sure one of Sections has **Recent Blog** selected. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display. Select **Style** = `Featured` (also you can change the style to `Default` or `Grocery`) to display like our demo store. You can change the **Background color** = `#ffffff` or any color you want.
 
 **Watch the instruction video:**
 
@@ -521,7 +510,7 @@ To display the recent blog posts on the home page, go to Page Builder. In Theme 
 
 To enable newsletter form, go to **Marketing** > **Email Marketing**, make sure **Allow Newsletter Subscriptions** is checked. Optionally select **Show Newsletter Summary** and enter the summary text as you want.
 
-Go to Page Builder, in **Theme Styles** > **Footer** > **Newsletter** section, select **Style** = `Default`. Select **Show store logo** and **Show social icons** = `In newsletter`.
+Go to Page Builder, in **Theme Styles** > **Footer** > **Newsletter** section, select **Style** = `InHealth`.
 Make sure **Show newsletter form** is selected. You can change the **Heading**, **background color**, **background image**, **button** and **text colors**.
 
 **Watch the instruction video:**
@@ -548,7 +537,7 @@ In **Page Builder** > **Theme Styles** > **Footer**, you can configure the newsl
 
 ### General
 
-You can read these common instructions in **Setting Up Pets Style Home Page** chapter:
+You can read these common instructions in **Setting Up CBD Style Home Page** chapter:
 
 - [Header](#header)
 - [Home page carousel section](#home-page-carousel-section)
@@ -584,7 +573,7 @@ To display category on left sidebar, in **page builder** > **Theme styles** > **
 
 ### General
 
-You can read these common instructions in **Setting Up Pets Style Home Page** chapter:
+You can read these common instructions in **Setting Up CBD Style Home Page** chapter:
 
 - [Header](#header)
 - [Home page carousel section](#home-page-carousel-section)
@@ -614,7 +603,7 @@ You can read these common instructions in **Setting Up Pets Style Home Page** ch
 
 ### General
 
-You can read these common instructions in **Setting Up Pets Style Home Page** chapter:
+You can read these common instructions in **Setting Up CBD Style Home Page** chapter:
 
 - [Header](#header)
 - [Home page carousel section](#home-page-carousel-section)
