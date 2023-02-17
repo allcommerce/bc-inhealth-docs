@@ -43,12 +43,12 @@ To start customizing the theme, login to your admin panel, go to **Storefront** 
 
 ### Header
 
-![Header](img/header.jpg)
+![Header](img/header.png)
 
 
 To configure the header, click on **Theme Styles** > **Header** section, here you can config the header colors, store logo position and size.
 
-**User Navigation** allows to change colors of the icon phone, cart.
+**User Navigation** allows to change colors of icon cart, recently viewed, account and text phone number.
 
 **Top Bar** section allows to change color of this top bar.
 
@@ -62,9 +62,10 @@ To configure the header, click on **Theme Styles** > **Header** section, here yo
 
 To configure the **Quick Search**, click on **Theme Styles** > **Header**. In **Quick Search** section you can change text colors, hover, border, and background of the search field.
 
-To change popular search keywords, type your text in **popular search keywords** field as picture below.
+![header-quick-search](img/quick-search.png)
 
-![header-quick-search](img/quick-search.jpg)
+
+
 #### Main Navigation
 
 **Main Navigation** allows to customize this navigation bar like changing the menu type to column, dropdown menu or mega menu; changing colors of the top menu as well as the sub-menus. There is an option "**Hide webpage links**" that allows to hide the static web page links on the main navigation.
@@ -89,21 +90,21 @@ To configure the Main navigation, click on **Theme Styles** > **Header**. In **M
 
 - **+ Border**: border-color of mega menu popup.
 
-![main-navigation](img/main-navigation.jpg)
+![main-navigation](img/main-navigation.png)
 
 To config style of main navigation, click on **Theme Styles** > **Header**. In **Main navigation** select **Menu style**. The theme offer 3 option as below:
 
 - `Mega menu`: show submenu under Mega menu style. **Mega menu** allow user insert banner and product into it
 
-![mega-menu](img/mega-menu.jpg)
+![mega-menu](img/mega-menu.png)
 
 - `Dropdown`: show sub-menu item as dropdown style.
 
-![dropdown-menu](img/dropdown-menu.jpg)
+![dropdown-menu](img/dropdown-menu.png)
 
 - `Column`: show sub-menu item as column style.
 
-![column-menu](img/column-menu.jpg)
+![column-menu](img/column-menu.png)
 
 You can also hide or **Show web page links** and **Show widgets in the mega menu**.
 
@@ -111,32 +112,15 @@ You can also hide or **Show web page links** and **Show widgets in the mega menu
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796851987?h=a75fba7b62&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-main navigation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-#### Products by category in mega menu
-
-![products-by-category-mega-menu](img/products-by-category-in-mega-menu.png)
-
-To create **Products by category in mega menu**:
-
-Drag and drop **Layout** widget to the corresponding position, change **Column** = `1`. Select **Column 1**, set **Padding** = `0 0 0 0`.
-
-Drag and drop **Section Heading | PapaThemes Beautify** widget into **Column 1**. Typing your text (example "Feature Box Items"), set **Padding** = `10 0 10 0`, **Padding (Mobile)** = `10 0 10 0`.
-
-Drag and drop **Products Feed | PapaThemes Beautify** widget into **Column 1** below **Section Heading** widget. In **Products** enter URL of the category to fetch products (example `/bird/`). Checked **Render with template** and enter your template file: `beautify/products-feed/list`.
-
-Change **Limit** = `3`.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796864334?h=12fed2f800&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="products-feed-guide-full"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 ### Top Banner
 
+The top banner can be created in **Marketing** > **Banners**, click **Create a Banner** button, enter Banner Name, Banner Content, select Show on Page = Home Page, select Location = Top of Page.
 
 Go back to **Storefront** > **My Themes** > click **Customize** button beside the theme thumbnail. You can see the top banner appears above the header. To change the colors of the top banner, go to **Theme Styles** > **General** > **Top banners** section. Here you can change the text color and the background color.
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795121977?h=6bd7a34407&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-top banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AWPZNKszf6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Ad Banner displays on all pages
 
@@ -144,11 +128,7 @@ To display the ad banner appearing on all pages on the header, drag and drop the
 
 ```html
 <p data-marquee>
-  <span class="button button--primary button--small">10% Off</span>
-  <span>&nbsp;&nbsp;&nbsp;$50+ WHEN YOU BUY ONLINE & PICK UP IN - STORE&nbsp;&nbsp;&nbsp;</span>
-  <span style="color: rgba(255,255,255,0.3)">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
-  <span>SAVE 35% ON YOUR FIRST&nbsp;&nbsp;&nbsp;</span>
-  <a href="/store">LEARN MORE</a>
+  Free shipping over 59 Euro - Code FREESHIPPING - Next Day Delivery - SAFE &amp; SECURE ONLINE SHOPPING
 </p>
 ```
 
@@ -156,11 +136,11 @@ The code allows to animate the text sliding from left to right on smaller screen
 
 **Watch the instruction video:**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796851998?h=9896b97f44&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Instr-header banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gG1WesJPkkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Main carousel
 
-![main-carousel-manager](img/main-carousel-manager.jpg)
+![main-carousel-manager](img/main-carousel-manager.png)
 
 Upload the carousel images in **Storefront** > **Home Page Carousel**.
 
@@ -170,240 +150,34 @@ Go back to **Page Builder**, in **Theme Styles** > **Home Page**, make sure **Ca
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796542010?h=3030ce28cf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-home carousel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-#### Popular Brand logos
+### Our best sellers
+![our-best-sellers](img/our-best-sellers.png)
 
+To create **Our best sellers**, drag & drop **Layout** widget to the corresponding position change **Columns** = `1`, **Name** = `SHOP BY CATEGORY`.
 
-![Top-column-carousel](img/brands-top-carousel.jpg)
+Select the **Column 1**, set **Padding** = `0`, drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "Our best sellers"), set **Padding** = `60 0 10 0` and **Padding (Mobile)**= `40 0 10 0`.
 
-To create popular brands in home page carousel:
+Drag & drop **CALLOUT ICONS | PAPATHEMES BEAUTIFY** widget below **Section Heading | PapaThemes Beautify** widget. Delete all other **callout icons** except the first one.
 
-click on **Theme Styles** > **Home Page** > **Carousel** find **show top column** and enable it to open widget region.
+In **Callout 1**, set **Padding** panel set value for **Desktop** = `45 5 0 5`, **Tablet** and **Mobile** = `20 5 20 5`, upload your image. Select **Icon size** choose `custom` change **Icon width** and **Icon height** = `145`. In **Link** typing your link you want.
 
-Drag and drop **layout widget** from page builder to corresponding position in **top column**. Change **column** to 1. Set **margin left and right** = `0`. Select column 1 and change **padding left, right** = `0`
-
-drag & drop **Flex Banners | PapaThemes Beautify** widget to layout. Delete all banner **except banner 1**. In Banner click on **Image** and upload your image. Change image **width** = `210px` and **height** = `140px` (recommend). Change **border radius** to `20px`. In General section, click on padding change left, right value to `12` for desktop and table and `5` for mobile device.
-
-Duplicate banner 1 to quantity that you want and update your image for each banner.
-
-Click on `...` at the right of widget name and select **Setting** > **Carousel** > **Enable carousel**. click on pen icons to open carousel setting change items per slide for **desktop** = `8`, tablet = `4` and mobile = `2`.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796842307?h=85ac457107&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-Popular brand in home carousel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-#### Right banner in homepage carousel
-![Main-carousel-right-banner](img/right-banner-main-carousel.jpg)
-
-To display right banner in Main carousel.
-
-click on Theme Styles > Home Page > Carousel find show **right column** and enable it to open widget region.
-
-Drag and drop layout widget from page builder to corresponding position in **right column**. Change column to 1. Set margin left and right = 0. Select column 1 and change padding left, right = 0.
-
-drag & drop **Flex Banners | PapaThemes Chiara** widget to layout. Delete all banner **except banner 1**. In Banner click on **Image** and upload your image. Change image **width** = `415px` and **height** = `357px`. Change **border radius** to `30px`. In General section, set all padding value t `0` for all device.
-
-Duplicate **Flex Banners | PapaThemes Chiara** widget. Select second banner change your **image** and **overlay image**.
-
-Noted: Total the height of two banner minus `24px` should equal height of main carousel banner.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796915564?h=fc5cc022ba&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Instr-right banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-### Top categories
-
-Desktop
-![Top categories](img/top-categories.jpg)
-
-Mobile
-
-![Top categories](img/top-categories-mobile.jpg)
-
-To create Top categories, in Page Builder drag and drop the **Layout widget** to the position **home below carousel**. Select the layout change column to 1 and change **layout name** = `TOP CATEGORIES`.
-
-Drag and drop **Flex Banners | PapaThemes Beautify** to the layout delete all the items except the first one then change to your image change **width** = `237` and **height** = `100`. If you want to show different image on mobile please enable **show different image on mobile** change to your image on mobile and set **width** = `82`, **height** = `120`. Open content tab disable heading and enable description change **content align** = `center`, Content padding **Top** = `12px` **Left** = `60px`. In general tab change padding **Top, right, bottom, left** = `8px`. 
-
-On **Flex Banners | PapaThemes Beautify** choose setting. In general tab enable **display content overlaying banner on mobile**. In carousel tab, enable carousel and click on **setting**. In carousel setting , setup following **Items per slide** = `6`, table and mobile = `4`. Enable `show dot`.
-
-At **Description text** > **setting** change **Description style** = `Custom` set **Font size** = `18px`, **Font site (Mobile)** = `14px` and **Text color** = `#0F0F2D`.
-
-To change the background color, edit the layout, set Layout Background to a certain color that you want.
-
-To setup heading, drag and drop **section heading | PapaThemes Beautify** and type your heading. Change padding **bottom** = `20px`, **alignment** = `center`
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796510179?h=f3fd45871a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-top category"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-### Product by category
-
-Desktop
-
-With **Left banner**:
-
-![Product by category](img/product-by-category.png)
-
-With out **Left banner**:
-
-![Product by category](img/product-by-category-2.png)
-
-Go to **Theme Styles** > **Home Page**, in the **Sections** field select **Product by category**.
-
-To create **Left banner**:
-
-Drag & drop the **Flex Banners | PapaThemes Beautify** widget to the corresponding position. Delete all other banners except the first one.
-
-Upload your image in **Image** field. Set **Image Width** = `304px` and **Image Height** `466px`. You can change **Border radius** = `30px`.
-
-If you want to show different image on mobile please enable **show different image on mobile** upload your image in **Image (Mobile)** field. Set **Image Width (Mobile)** = `388px` and **Image Height (Mobile)** = `295px`.
-
-In **Content**, hide **Heading text** if your banner already has text.
-
-In **General** > **Padding** panel, set `0` for all values and `18` for **bottom (Mobile)**.
-
-Select the **Column 1** set padding = `0 0 0 0`.
-
-To change **Border color of the title**:
-
-In **Theme Styles** > **General** > **Link Colors** change color you want.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796201915?h=ae876c0213&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-Product category banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-### Kitten and Puppy
-
-Desktop
-
-![Kitten puppy](img/kitten-puppy.png)
-
-Mobile
-
-![Kitten puppy](img/kittten-puppy-mb.png)
-
-To create banner **kitten puppy**: 
-
-In **Page Builder** drag & drop **Layout** to the corresponding position and change **Columns** = `1`, **Layout** name = `KITTEN PUPPY`.
-
-Select the **Column 1**, in **COLUMN BACKGROUND** choose **Background** = `Image` and upload image background, that you want.
-
-To create title:
-
-Drag & drop the **Text** widget into **Column 1**. Typing your text (example "KITTEN & PUPPY"). Choose **Font weight** = `Semi Bold`, **Font size** = `32px`, **Text color** = `#FFFFFF`.
-
-Drag & drop the second **Text** widget into **Column 1** below **Text** (KITTEN & PUPPY). Typing your text (example "FEEDING INSTRUCTIONS"). Choose **Font size** = `18px`, **Text color** = `#FFFFFF`.
-
-Drag & drop the **Spacer | PapaThemes Beautify** into **Column 1** about at the top and below **Text** (FEEDING INSTRUCTIONS). Set value **Desktop** = `50px`, **Tablet** = `40px`, **Mobile** = `20px`.
-
-To create content:
-
-Drag & drop the **Flex Banners | PapaThemes Beautify** widget into **Column 1** at the bottom. Delete all other banners except the first one.
-
-Upload your image, set **Image Width** = `345px`, **Image Height** `262px`, **Border radius** = `30px`. If you want to show different image on mobile please enable **show different image on mobile** upload your image in **Image (Mobile)** field.
-
-In **Content**, hide **Heading text** if your image already has text.
-
-In **General** > **Width** panel choose **Width** = `%` and set **Value (Desktop)** = `25%`, **Value (Tablet)** = `50%`,  **Value (Mobile)** = `50%`. In **Padding** panel set value **Desktop** = `0 14 0 14`, **Tablet** = `0 9 9 0`, **Mobile** = `0 2,5 2,5 0`.
-
-Duplicate to 4 banners and upload images according to each banner.
-
-On **Flex Banners | PapaThemes Beautify** choose **Settings**. In **General** disable **Display banners in container div**, change **Your theme name** = `mooncat`, in **Padding** panel set value **Desktop** = `0 15 0 15`, **Tablet** = `0 18 0 18`, **Mobile** = `0 10 0 10`.
-
-Drag & drop the **Spacer | PapaThemes Beautify** widget into **Column 1** below **Flex Banners | PapaThemes Beautify**. Set value **Desktop** = `172px`, **Tablet** = `155px`, **Mobile** = `115px`.
-
-To create below banner:
-
-Drag & drop the second **Layout** below **Layout (KITTEN PUPPY)** and change **Columns** = `1`, select the **Column 1** set **Padding** = `0 0 0 0`.
-
-Drag & drop **Flex Banners | PapaThemes Beautify** widget into the second **Layout**. Delete all other banners except the first one.
-
-Upload your image, set **Image Width** = `639px`, **Image Height** `373px`, **Border radius** = `30px`. If you want to show different image on mobile please enable **show different image on mobile** upload your image in **Image (Mobile)** field.
-
-In **Content**, hide **Heading text** if your image already has text.
-
-In **General** > **Padding** panel set value **Desktop** = `20 0 50 0`, **Tablet** = `20 0 40 0`, **Mobile** = `20 0 20 0`.
-
-On **Flex Banners | PapaThemes Beautify** choose **Settings**. In **Padding** panel set `0` for all values and `50` for **top (Mobile)**
-
-Select the **Column 1** inside the **Layout (KITTEN PUPPY)** set **Margin** = `0 0 -172 0`, **Padding** = `0 0 0 0`.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796178146?h=8605ce1a91&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-Puppy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+Duplicate Callout 1 to quantity that you want, change icon image for each icon.
 
 ### Top Brand
 
 ![top-brand](img/top-brand.png)
 
-To create **Top brand**:
+To create **Top brand**, drag & drop **Layout** widget to the corresponding position change **Columns** = `1`. In **LAYOUT BACKGROUND** >  **Background** select `Color`, in **Background color** set color = `#EEEEEE`.
 
-Drag & drop **Layout** widget to the corresponding position, change **Columns** = `1`, **Name** = `ROUNDED`, select the **Column 1** set **Padding** = `0 0 0 0`. In **COLUMN BACKGROUND** choose **Background** = `Image` and upload your.
+Select the **Column 1** set **Padding** = `0`. Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "Top Brands"), set **Padding** = `60 0 10 0`, **Padding (Mobile)** = `40 0 10 0`.
 
-Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "TOP BRAND"), select custom in **Text style** field, set **Font size** = `30px`, **Text color** = `#FFFFFF`, **Padding** = `30 0 20 0`, **Padding (Mobile)** = `20 0 10 0`.
+Drag & drop **CALLOUT ICONS | PAPATHEMES BEAUTIFY** widget below **Section Heading | PapaThemes Beautify** widget. Delete all other **callout icons** except the first one.
 
-Drag & drop **Flex Banners | PapaThemes Beautify** widget below **Section Heading | PapaThemes Beautify** widget. Delete all other banners except the first one.
+In **Callout 1**, set **Padding** panel set value **Desktop** = `45 5 45 5`, **Tablet** and **Mobile**= `20 5 20 5` , upload your image. Select **Icon size** choose `custom`, change the width and height of the image as you want in **IconWidth** and **IconHeight**. Turn off **Show text**. 
 
-Upload your image, set **Image width** = `266px`, **Image height** = `266px`, **Border radius** = `266px`. If you want to show different image on mobile please enable **Show different image on mobile** upload your image in **Image (Mobile)** field.
+Duplicate Callout 1 to quantity that you want, change icon image for each icon.
 
-In **Content**, hide **Heading text** if your image has text.
-
-In **General** > **Padding** panel set value **Desktop** = `0 13 30 13`, **Tablet** = `0 8 12 8`, **Mobile** = `0 4 10 4`.
-
-Duplicate to 10 banners and upload images according to each banner.
-
-In **Settings** of **Flex Banners | PapaThemes Beautify**:
-
-In **General** > **Padding** panel set value **Desktop** = `0 0 30 0`, **Tablet** = `0 0 12 0`, **Mobile** = `0 0 10 0`.
-
-In **Carousel**, show **Enable carousel**, in **Carousel settings** panel set value **Items per slide** = `5`, **Items per slide (Tablet)** = `4`, **Items per slide (Mobile)** = `3`, unchecked **Show arrows**.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796197736?h=6915ba753b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-Top Brand"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-### Double banner
-
-Desktop
-
-![Double banner](img/banners.png)
-
-Mobile
-
-![Double banner](img/banners-mb.png)
-
-To create **Double banner**:
-
-Drag & drop **Layout** widget to the corresponding position, change **Column** = `1`, **Name** = `BOXED`.
-
-Select the **Column 1** set **Padding** = `0 0 0 0`.
-
-Drag & drop **Flex Banners | PapaThemes Beautify** widget into **Column 1**.
-
-Select **Banner 1**, upload your image, set **Image width** = `1055px`, **Image height** = `436px`, enable **Show different image on mobile** and upload your image in **Image (Mobile)**, set **Image width (Mobile)** = `388px`, **Image height (Mobile)** = `961px`, **Border radius** = `30px`.
-
-In **Content**, hide **Heading text** if your image has text.
-
-In **General** > **Width** panel choose **Width** = `%`, set **Value (Desktop)** = `70%`, **Value (Tablet)** = `70%`, **Value (Mobile)** = `100%`.
-
-In **General** > **Padding** panel set value **Desktop** = `0 10 0 0`, **Tablet** = `0 5 0 0`, **Mobile** = `0 0 0 0`.
-
-Select **Banner 2** and upload image corresponding, set **Image width** = `435px`, **Image height** = `435px`, **Border radius** = `30px`. If you want to show different image on mobile please enable **Show different image on mobile**.
-
-In **Content**, hide **Heading text** if your image has text.
-
-In **General** > **Width** panel choose **Width** = `%`, set **Value (Desktop)** = `30%`, **Value (Tablet)** = `30%`, **Value (Mobile)** = `100%`.
-
-In **General** > **Padding** panel set value **Desktop** = `0 0 0 20`, **Tablet** = `0 0 0 10`, **Mobile** = `25 0 0 0`.
-
-In **Settings** of **Flex Banners | PapaThemes Beautify** > **General** unchecked **Display banners in container div** and checked **Display content overlaying banner on mobile**.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795518866?h=f6214aafb5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Instr-double"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
+Drag & drop **text** widget. In **Text** > **font-weight** select `Semi Bold`, **font size** = `16px`, double click in text choose `icon with text Insert/edit Link` and add the link you want
 ### Banner
 
 ![Banner](img/banner.png)
@@ -412,7 +186,17 @@ To create **Banner**, Drag & drop **Layout** widget to the corresponding positio
 
 Drag & drop **Flex Banners | PapaThemes Beautify** widget into **Colum 1**. Delete all other banners except the first one.
 
+
+Upload your image, set **Image width** = `1720px`, **Image height** = `458`, **Border radius** = `30px`. Enable **Show different image on mobile**, upload your image in **Image (Mobile)**, set **Image width (Mobile)** = `388px`, **Image height (Mobile)** = `655px`, **Border radius** = `30px`.
+
+**Content**, hide **Heading text** if your image has text.
+
+**General** > **Padding**, set `0` for all values.
+
+**Settings** of **Flex Banners | PapaThemes Beautify** > **General**, unchecked **Display banners in container div** and checked **Display content overlaying banner on mobile**.
+=======
 Upload your image, set **Image width** = `1920px`, **Image height** = `711px`. In **Content**, hide **Heading text** if your image has text. In **General** > **Padding**, set `0` for all values. In **General**, unchecked **Display banners in container div**.
+
 
 **Watch the instruction video:**
 
@@ -534,7 +318,7 @@ You can read these common instructions in **Setting Up CBD Style Home Page** cha
 - [Service icon s](#service-icons)
 - [Category banners](#category-banners)
 - [Special products tabs](#special-products-tabs)
-- [Featured products](#featured-products)
+- [Featured products](#featured-products) 
 - [New products](#new-products)
 - [Bestselling products](#bestselling-products)
 - [Recently Viewed Products](#recently-viewed-products)
@@ -937,17 +721,6 @@ Videos displayed in **image gallery** option:
 
 Configuring the category pages in **Page Builder** > **Theme Styles** > **Products** > **Category Page**.
 
-### Category Layout Type
-
-Theme supports displaying category Page layout in `Full width` mode or `Left sidebar` mode. In **Layout**, select the particular display mode for default display.
-
-- **Layout** = `Full width`
-
-![full-width](img/category-fullwidth.jpg)
-
-- **Layout** = `Left sidebar`
- 
-![left-sidebar](img/category-leftsidebar.jpg)
 
 ### Products Display Type
 
@@ -964,11 +737,6 @@ Theme supports displaying products in grid mode (2, 3, 4 or 6 products per row),
 
 ![products-display-type-list](img/products-display-type-list.jpg)
 
-### Display Bulk Order layout
-
-To display this bulk order layout, select **Products display type** = `Bulk order`.
-
-![products-display-type-bulk-order](img/products-display-type-bulk-order.jpg)
 
 ### Displaying Shop by Brand
 
@@ -984,20 +752,6 @@ To display this bulk order layout, select **Products display type** = `Bulk orde
   - `Hide`.
 
 ![shop-by-price-slider](img/shop-by-price-slider.jpg)
-
-### Infinite Products Loading
-
-This feature allows you to choose the method of loading more products in the current catalog.
-
-![infinite-product-loading](img/infinite-product-loading.jpg)
-
-**Infinite Products Loading**:
-
-  - `On scroll`: Products will automatic loadout when scrolling down.
-
-  - `Load more button`: Click on the **Load more button** to continue loading more products.
-
-  - `Off`: Show **page numbers** and **arrow** button as original. Click on button to see more products.
 
 ### Display contextual search
 
@@ -1040,7 +794,7 @@ Configuring the search results page in **Page Builder** > **Theme Styles** > **P
 
 ![brand-quick-view](img/brand-quick-view.jpg)
 
-In **Storefront** > **Marketing Banner**, click **Create a Banner** button. 
+In **Marketing** > **Banner**, click **Create a Banner** button. 
 
 - Enter the brand introduction content to **Banner Content**.
 - Select **Show on Page** = `For a Specific Brand` and select the corresponding brand.
