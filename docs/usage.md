@@ -186,17 +186,13 @@ To create **Banner**, Drag & drop **Layout** widget to the corresponding positio
 
 Drag & drop **Flex Banners | PapaThemes Beautify** widget into **Colum 1**. Delete all other banners except the first one.
 
-
-Upload your image, set **Image width** = `1720px`, **Image height** = `458`, **Border radius** = `30px`. Enable **Show different image on mobile**, upload your image in **Image (Mobile)**, set **Image width (Mobile)** = `388px`, **Image height (Mobile)** = `655px`, **Border radius** = `30px`.
+Upload your image, set **Image width** = `1920px`, **Image height** = `711px`. In **Content**, hide **Heading text** if your image has text. In **General** > **Padding**, set `0` for all values. In **General**, unchecked **Display banners in container div**.
 
 **Content**, hide **Heading text** if your image has text.
 
 **General** > **Padding**, set `0` for all values.
 
 **Settings** of **Flex Banners | PapaThemes Beautify** > **General**, unchecked **Display banners in container div** and checked **Display content overlaying banner on mobile**.
-=======
-Upload your image, set **Image width** = `1920px`, **Image height** = `711px`. In **Content**, hide **Heading text** if your image has text. In **General** > **Padding**, set `0` for all values. In **General**, unchecked **Display banners in container div**.
-
 
 **Watch the instruction video:**
 
