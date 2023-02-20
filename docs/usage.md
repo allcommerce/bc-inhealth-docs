@@ -194,10 +194,6 @@ Upload your image, set **Image width** = `1920px`, **Image height** = `711px`. I
 
 **Settings** of **Flex Banners | PapaThemes Beautify** > **General**, unchecked **Display banners in container div** and checked **Display content overlaying banner on mobile**.
 
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795508011?h=5c2f4c22f2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-banner"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 ### Featured products
 
 ![featured-products](img/feature-product.jpg)
@@ -260,10 +256,6 @@ You can add blog posts in Storefront > Blog. Click the **+** button to add a new
 
 To display the recent blog posts on the home page, go to Page Builder. In **Theme Styles** > **Home Page**, make sure one of Sections has **Recent Blog** selected. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display. Select **Style** = `Featured` (also you can change the style to `Default` or `Grocery`) to display like our demo store. You can change the **Background color** = `#ffffff` or any color you want.
 
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795495559?h=4b4939afd5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-blog"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 ### Newsletter
 
 ![edit-newsletter](img/edit-newsletter.jpg)
@@ -272,11 +264,6 @@ To enable newsletter form, go to **Marketing** > **Email Marketing**, make sure 
 
 Go to Page Builder, in **Theme Styles** > **Footer** > **Newsletter** section, select **Style** = `InHealth`.
 Make sure **Show newsletter form** is selected. You can change the **Heading**, **background color**, **background image**, **button** and **text colors**.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795101779?h=5c3393ce06&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-newsletter"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 
 ### Footer
 
@@ -287,11 +274,6 @@ In **Page Builder** > **Theme Styles** > **Footer**, you can configure the newsl
 **Payment Icons** allows to select which payment icons to display.
 
 **Copyright** allows to configure the copyright text.
-
-**Watch the instruction video:**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795439897?h=4ef5896555&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instr-footer"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 
 ## Setting Up Baby Style Home Page
 
