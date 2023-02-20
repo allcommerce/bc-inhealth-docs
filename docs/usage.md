@@ -188,12 +188,15 @@ Drag & drop **Flex Banners | PapaThemes Beautify** widget into **Colum 1**. Dele
 
 Upload your image, set **Image width** = `1920px`, **Image height** = `711px`. In **Content**, hide **Heading text** if your image has text. In **General** > **Padding**, set `0` for all values. In **General**, unchecked **Display banners in container div**.
 
+<<<<<<< Updated upstream
 **Content**, hide **Heading text** if your image has text.
 
 **General** > **Padding**, set `0` for all values.
 
 **Settings** of **Flex Banners | PapaThemes Beautify** > **General**, unchecked **Display banners in container div** and checked **Display content overlaying banner on mobile**.
 
+=======
+>>>>>>> Stashed changes
 ### Featured products
 
 ![featured-products](img/feature-product.jpg)
@@ -447,6 +450,10 @@ By default quick-view buttons appear on all product cards. To hide it, go to **P
 
 By default the quantity box shows up, to hide it, go to **Page Builder** > **Theme Styles** > **Products** > un-tick **Show quantity selection on product pages** checkbox.
 
+### Add to Cart without leaving page
+
+Stay on current page when adding products to cart, go to **Page Builder** > **Theme Styles** > **Products** > checked **Add to Cart without leaving page** checkbox.
+
 ### Customizing the popup displayed after product added to cart
 
 In **Page Builder** > **Theme Styles** > **Products** > **Popup after added to cart**:
@@ -456,16 +463,9 @@ In **Page Builder** > **Theme Styles** > **Products** > **Popup after added to c
 - `Cart Preview`: Displaying the whole shopping cart popup on the right side.
 - `Hide`: Not show any popup.
 
-Mini added to cart popup:
+Cart Preview added to cart popup:
 
-![mini-add-to-cart-popup](img/mini-add-to-cart-popup.jpg)
-
-### Displaying Recently Viewed Products
-
-Recently viewed products only display for logged-in customers.
-
-To enable it, go to **Page Builder** > **Theme Styles** > **Products** > **Show recently viewed** select number of products to display.
-
+![cartpreview-add-to-cart-popup](img/cartpreview-add-to-cart-popup.jpg)
 
 ### Customizing Price Labels
 
@@ -490,29 +490,6 @@ Go to **Page Builder** > **Theme Styles** > **Products** > **Product Page**.
 
 ### Displaying Image gallery 
 
-#### Image Gallery Position
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**, In **Image gallery position** , select `Left` or `Right` to change Image gallery position .
-
-- `Right`
-
-![pdp-right](img/pdp-right.jpg)
-
-
-
-#### Displaying sub-image as a slider
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**, **Enable thumbnail carousel** section, you can change display thumbnail images to slider or grid.
-
-- `1 row`: Sub-images are displayed in the slider on 1 row.
-
-- `2 rows`: Sub-images are displayed in the slider on 2 row.
-
-- `Hide`: All sub-images are displayed as grid.
-
-![thumbnail-2](img/thumbnail-2.jpg)
-
-
 #### Displaying product image thumbnails vertically
 
 In **Page Builder** > **Theme Styles** > **Products** > **Product Page**, checked **Show image thumbnails vertically** to display product thumbnails vertically, otherwise it's displayed horizontally.
@@ -533,15 +510,6 @@ In **Page Builder** > **Theme Styles** > **Products** > **Product Page**, tick *
 Show sticky Add to Cart on mobile**.
 
 ![Show sticky Add to Cart on mobile](img/sticky-add-to-cart.jpg)
-
-### Displaying product custom fields in a separated tab
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**:
-
-- Tick **Show custom fields in tab** checkbox.
-- Enter the tab title in the next **Tab title** box.
-
-![product-custom-fields-tab](img/product-custom-fields-tab.jpg)
 
 ### Displaying Delivery & Returns tab
 
