@@ -64,8 +64,6 @@ To configure the **Quick Search**, click on **Theme Styles** > **Header**. In **
 
 ![header-quick-search](img/quick-search.png)
 
-
-
 #### Main Navigation
 
 **Main Navigation** allows to customize this navigation bar like changing the menu type to column, dropdown menu or mega menu; changing colors of the top menu as well as the sub-menus. There is an option "**Hide webpage links**" that allows to hide the static web page links on the main navigation.
@@ -723,6 +721,7 @@ Configuring the category pages in **Page Builder** > **Theme Styles** > **Produc
 Theme supports displaying products in grid mode (2, 3, 4 or 6 products per row), in list mode or bulk order mode. In **Products display type**, select the particular display mode for default display.
 
 - **Display type** on the right allow your customers to change product category display by themselves.
+  
 ![products-display-type-by-customer](img/products-display-type-by-customer.jpg)
 
 **Grid 6 columns:**
