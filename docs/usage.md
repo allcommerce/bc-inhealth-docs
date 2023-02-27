@@ -452,7 +452,9 @@ By default the quantity box shows up, to hide it, go to **Page Builder** > **The
 
 ### Add to Cart without leaving page
 
-Stay on current page when adding products to cart, go to **Page Builder** > **Theme Styles** > **Products** > checked **Add to Cart without leaving page** checkbox.
+Stay on current page when adding products to cart, go to **Page Builder** > **Theme Styles** > **Products** > tick **Add to Cart without leaving page** checkbox.
+
+![add-to-cart-without-leaving-page](img/add-to-cart-without-leaving-page.jpg)
 
 ### Customizing the popup displayed after product added to cart
 
