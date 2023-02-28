@@ -278,125 +278,120 @@ In **Page Builder** > **Theme Styles** > **Footer**, you can configure the newsl
 
 **Copyright** allows to configure the copyright text.
 
-## Setting Up Baby Style Home Page
+## Setting Up Fitness Style Home Page
 
 ### General
 
-You can read these common instructions in **Setting Up CBD Style Home Page** chapter:
+You can read these common instructions in **Setting Up Fitness Style Home Page** chapter:
 
 - [Header](#header)
-- [Home page carousel section](#home-page-carousel-section)
+
+- [Quick Search](#quick-search)
+
+- [Main Navigation](#main-navigation)
+
+- [Top Banner](#top-banner)
+
 - [Ad Banner displays on all pages](#ad-banner-displays-on-all-pages)
+
 - [Main carousel](#main-carousel)
-- [Brand logos](#brand-logos)
-- [Main carousel right banner](#main-carousel-right-banner)
-- [Top categories](#top-categories)
-- [Product by category](#product-by-category)
-- [Kitten and Puppy](#kitten-and-puppy)
+
+- [Our best sellers](#our-best-sellers)
+
 - [Top Brand](#top-brand)
-- [Double banner](#double-banner)
+
 - [Banner](#banner)
-- [Service icon s](#service-icons)
-- [Category banners](#category-banners)
-- [Special products tabs](#special-products-tabs)
-- [Featured products](#featured-products) 
-- [New products](#new-products)
-- [Bestselling products](#bestselling-products)
-- [Recently Viewed Products](#recently-viewed-products)
-- [Instagram photos](#instagram-photos)
-- [Recent blog posts](#recent-blog-posts)
-- [Newsletter](#newsletter)
-- [Footer](#footer)
 
-### Left-sidebar layout
-
-To display category on left sidebar, in **page builder** > **Theme styles** > **General**. Find **option layout**, select **left-sidebar**.
-
-![left-sidebar](img/left-sidebar.jpg)
-
-## Setting Up Book Style Home Page
-
-### General
-
-You can read these common instructions in **Setting Up CBD Style Home Page** chapter:
-
-- [Header](#header)
-- [Home page carousel section](#home-page-carousel-section)
-- [Ad Banner displays on all pages](#ad-banner-displays-on-all-pages)
-- [Main carousel](#main-carousel)
-- [Brand logos](#brand-logos)
-- [Main carousel right banner](#main-carousel-right-banner)
-- [Top categories](#top-categories)
-- [Product by category](#product-by-category)
-- [Kitten and Puppy](#kitten-and-puppy)
-- [Top Brand](#top-brand)
-- [Double banner](#double-banner)
-- [Banner](#banner)
-- [Category banners](#category-banners)
-- [Special products tabs](#special-products-tabs)
 - [Featured products](#featured-products)
-- [New products](#new-products)
+
 - [Bestselling products](#bestselling-products)
-- [Recently Viewed Products](#recently-viewed-products)
-- [Instagram photos](#instagram-photos)
+
+- [New products](#new-products)
+
+- [Customers Reviews](#customers-reviews)
+
 - [Recent blog posts](#recent-blog-posts)
+
 - [Newsletter](#newsletter)
+
 - [Footer](#footer)
 
 
-## Setting Up Heath-care Style Home Page
+
+## Setting Up Music Style Home Page
 
 ### General
 
-You can read these common instructions in **Setting Up CBD Style Home Page** chapter:
+You can read these common instructions in **Setting Up Music Style Home Page** chapter:
 
 - [Header](#header)
-- [Home page carousel section](#home-page-carousel-section)
+
+- [Quick Search](#quick-search)
+
+- [Main Navigation](#main-navigation)
+
+- [Top Banner](#top-banner)
+
 - [Ad Banner displays on all pages](#ad-banner-displays-on-all-pages)
+
 - [Main carousel](#main-carousel)
-- [Brand logos](#brand-logos)
-- [Main carousel right banner](#main-carousel-right-banner)
-- [Top categories](#top-categories)
-- [Product by category](#product-by-category)
-- [Kitten and Puppy](#kitten-and-puppy)
+
+- [Our best sellers](#our-best-sellers)
+
 - [Top Brand](#top-brand)
-- [Double banner](#double-banner)
+
 - [Banner](#banner)
-- [Category banners](#category-banners)
-- [Special products tabs](#special-products-tabs)
+
 - [Featured products](#featured-products)
-- [New products](#new-products)
+
 - [Bestselling products](#bestselling-products)
-- [Recently Viewed Products](#recently-viewed-products)
-- [Instagram photos](#instagram-photos)
+
+- [New products](#new-products)
+
+- [Customers Reviews](#customers-reviews)
+
 - [Recent blog posts](#recent-blog-posts)
+
 - [Newsletter](#newsletter)
+
 - [Footer](#footer)
+## Setting Up Pets Style Home Page
 
+### General
 
-### Three Banners
+You can read these common instructions in **Setting Up Pets Style Home Page** chapter:
 
-Desktop
+- [Header](#header)
 
-![three banners](img/three-banners.jpg)
+- [Quick Search](#quick-search)
 
-To create **Three Banners**:
+- [Main Navigation](#main-navigation)
 
-In **Page Builder**, drag & drop **Layout** widget to the corresponding position. Change **Column** = `1`. Drag and drop **Flex Banners | PapaThemes Beautify** widget into **Column 1** and duplicate **Banner 1** to 3 banners.
+- [Top Banner](#top-banner)
 
-To edit **Banner 1**, change your image, set **Image width** = `790px`, **Image height** = `435px`. Show different image on mobile and upload your image, set **Image width (Mobile)** = `388px`, **Image height (Mobile)** = `230px`, **Border radius** = `30px`.
+- [Ad Banner displays on all pages](#ad-banner-displays-on-all-pages)
 
-In **Content**, hide **Heading text** if your image already has text.
+- [Main carousel](#main-carousel)
 
-In **General**, choose **Width** = `%`, set **Value (Desktop)** = `46%`, **Value (Tablet)** = `100%`, **Value (Mobile)** = `100%`. Set **Padding** for **Desktop** = `0 10 0 10`, **Table** = `0 15 0 0`, **Mobile** = `21 0 21 0`.
+- [Our best sellers](#our-best-sellers)
 
-To edit **Banner 2**, change your image, set **Image width** = `435px`, **Image height** = `435px`. If you want to show different image on mobile please enable **Show different image on mobile** upload your image in **Image (Mobile)** field. Set **Border radius** = `30px`.
+- [Top Brand](#top-brand)
 
-In **Content**, hide **Heading text** if your image already has text.
+- [Banner](#banner)
 
-In **General**, choose **Width** = `%`, set **Value (Desktop)** = `25.5%`, **Value (Tablet)** = `50%`, **Value (Mobile)** = `100%`. Set **Padding** for **Desktop** = `0 20 0 0`, **Table** = `0 0 32 0`, **Mobile** = `0 0 0 0`.
+- [Featured products](#featured-products)
 
-Set values for **Banner 3** as the same **Banner 2**. In **General** of **Banner 3**, set **Padding** for **Desktop** = `0 0 0 20`, **Tablet** = `0 0 0 15`, **Mobile** = `0 0 0 0`.
+- [Bestselling products](#bestselling-products)
+
+- [New products](#new-products)
+
+- [Customers Reviews](#customers-reviews)
+
+- [Recent blog posts](#recent-blog-posts)
+
+- [Newsletter](#newsletter)
+
+- [Footer](#footer)
 
 ### Recent blog
 
