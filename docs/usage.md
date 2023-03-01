@@ -296,6 +296,8 @@ You can read these common instructions in **Setting Up Fitness Style Home Page**
 
 - [Main carousel](#main-carousel)
 
+- [3 Callout Icons](#3-callout-icons)
+
 - [Our best sellers](#our-best-sellers)
 
 - [Top Brand](#top-brand)
@@ -315,9 +317,17 @@ You can read these common instructions in **Setting Up Fitness Style Home Page**
 - [Newsletter](#newsletter)
 
 - [Footer](#footer)
+### 3 Callout Icons
+  
+![3-callout-icons](img/3-call-out.jpg)
 
+To create **3 Callout Icons**, drag & drop **Layout** widget to the corresponding position change **Columns** = `1`. Drag & drop **Callout Icons | PapaThemes Beautify** widget into the **Column 1**.Delete all other **callout icons** except the first one.
 
+In **Callout 1**, set **Style** choose `Left` , set **Padding** panel set value **Desktop** = `20 5 20 150`, **Tablet** = `20 5 20 5` and **Mobile** = `15 5 15 5`, set **Icon** choose `Secure Shopping`, set **Icon color** = `#000000`, set **Text Style** choose `Custom`.
 
+In **Text Style** > **Font-Weight** select `Bold`, set `Text color hover` = `#FF5A86`, turn on **Show second text**, **Second Text** select `Custom`, set **Font weight** choose `Bold`.
+
+Duplicate Callout 1 to quantity that you want, change icon image for each icon, double click change text and add the link you want
 ## Setting Up Music Style Home Page
 
 ### General
@@ -335,6 +345,8 @@ You can read these common instructions in **Setting Up Music Style Home Page** c
 - [Ad Banner displays on all pages](#ad-banner-displays-on-all-pages)
 
 - [Main carousel](#main-carousel)
+
+- [3 Callout Icons](#3-callout-icons)
 
 - [Our best sellers](#our-best-sellers)
 
@@ -373,6 +385,8 @@ You can read these common instructions in **Setting Up Pets Style Home Page** ch
 
 - [Main carousel](#main-carousel)
 
+- [3 Callout Icons](#3-callout-icons)
+
 - [Our best sellers](#our-best-sellers)
 
 - [Top Brand](#top-brand)
@@ -387,19 +401,9 @@ You can read these common instructions in **Setting Up Pets Style Home Page** ch
 
 - [Customers Reviews](#customers-reviews)
 
-- [Recent blog posts](#recent-blog-posts)
-
 - [Newsletter](#newsletter)
 
 - [Footer](#footer)
-
-### Recent blog
-
-![Recent blog](img/recent-blog.jpg)
-
-In **Page Builder** > **Theme Styles** > **Home Page** > **Recent Blog** find **Number of posts**, select `2` to change display **Recent blog**.
-
-
 ## Customizing Products Display
 
 ### Product Card
