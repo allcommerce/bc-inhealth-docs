@@ -327,7 +327,7 @@ In **Callout 1**, set **Style** choose `Left` , set **Padding** panel set value 
 
 In **Text Style** > **Font-Weight** select `Bold`, set `Text color hover` = `#FF5A86`, turn on **Show second text**, **Second Text** select `Custom`, set **Font weight** choose `Bold`.
 
-Duplicate Callout 1 to quantity that you want, change icon image for each icon, double click change text and add the link you want
+Duplicate Callout 1 to quantity that you want, change image and add your link to each icon, double click on text to change your text.
 ## Setting Up Music Style Home Page
 
 ### General
