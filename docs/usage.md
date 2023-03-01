@@ -251,13 +251,13 @@ In **Padding** panel set `20 5 20 5` for **Desktop**, set `20 5 0 5` for **Table
  In **Title**  Typing your text(In this example, we are leaving it empty). In **Content** typing positive reviews in the input field. In **Rating** select number of stars for reviews. In **Author** typing the author's name of the reviewer. In **Style for theme** select style  you want ( in this example select `InHealth` ). Duplicate to 4 reviews and change content according to each review.
 
 
-### Recent blog posts
+### Advice & articles
 
 ![edit-recent-blog](img/edit-recent-blog.jpg)
 
 You can add blog posts in Storefront > Blog. Click the **+** button to add a new blog post. Make sure **Blog Visibility** is `on`.
 
-To display the recent blog posts on the home page, go to Page Builder. In **Theme Styles** > **Home Page**, make sure one of Sections has **Recent Blog** selected. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display. Select **Style** = `Featured` (also you can change the style to `Default` or `Grocery`) to display like our demo store. You can change the **Background color** = `#ffffff` or any color you want.
+To display the Advice & articles on the home page, go to Page Builder. In **Theme Styles** > **Home Page**, make sure one of Sections has **Recent Blog** selected. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display. Select **Style** = `Featured` (also you can change the style to `Default` or `Grocery`) to display like our demo store. You can change the **Background color** = `#ffffff` or any color you want.
 
 ### Newsletter
 
@@ -312,7 +312,7 @@ You can read these common instructions in **Setting Up Fitness Style Home Page**
 
 - [Customers Reviews](#customers-reviews)
 
-- [Recent blog posts](#recent-blog-posts)
+- [Advice & articles](#advice-articles)
 
 - [Newsletter](#newsletter)
 
@@ -362,7 +362,7 @@ You can read these common instructions in **Setting Up Music Style Home Page** c
 
 - [Customers Reviews](#customers-reviews)
 
-- [Recent blog posts](#recent-blog-posts)
+- [Advice & articles](#advice-articles)
 
 - [Newsletter](#newsletter)
 
@@ -400,7 +400,9 @@ You can read these common instructions in **Setting Up Pets Style Home Page** ch
 - [New products](#new-products)
 
 - [Customers Reviews](#customers-reviews)
-
+  
+- [Advice & Articles](#advice-articles)
+  
 - [Newsletter](#newsletter)
 
 - [Footer](#footer)
