@@ -1,5 +1,7 @@
 # Release Notes
 
+## 1.1.2 (11-10-2023)
+- Update style of Cookie consent tracking bar
 
 ## 1.1.1 (10-20-2023)
 - Update theme settings to display swatches on card by default, frequently bought together shows related products, 12 products to show on home pages, new products display grid type.
