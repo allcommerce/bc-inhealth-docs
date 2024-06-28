@@ -1,5 +1,12 @@
 # Release Notes
 
+## 1.2.0 (06-28-2024)
+- Fix to prevent mega menu from overflowing right edge of page
+- Fix Frequently Bought Together overlap product image on Safari
+- Fix menu overflow on mobile
+- Display entire image of swatch when hover
+- Allow unselect option of swatch, rectangle, radio
+
 ## 1.1.3 (12-15-2023)
 - Tweak coupon apply button width
 - Fix outline of the search in category input when focused
