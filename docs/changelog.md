@@ -1,5 +1,9 @@
 # Release Notes
 
+## 1.3.0 (01-20-2025)
+- [CORNERSTONE] Add nonce to scripts in checkout and account pages [#2525](https://github.com/bigcommerce/cornerstone/pull/2525)
+- [CORNERSTONE] Use fetch when updating variants in cart ([#2521](https://github.com/bigcommerce/cornerstone/pull/2521))
+
 ## 1.2.0 (06-28-2024)
 - Fix to prevent mega menu from overflowing right edge of page
 - Fix Frequently Bought Together overlap product image on Safari
@@ -31,4 +35,3 @@
 
 ## 1.0.0
 - Initial release.
-
